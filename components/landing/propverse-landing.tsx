@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react'
 import { ArrowDownRight, ArrowRight, Menu, MoveUpRight, X } from 'lucide-react'
+import TownCanvas from '../town/TownCanvas'
 
 const navItems = [
   ['Towns', '#towns'],
@@ -69,7 +70,7 @@ function BungalowVisual() {
     return () => window.clearInterval(timer)
   }, [])
 
-  return <div className="bungalow-stage" aria-label="Cinematic 3D preview of a PropVerse bungalow" role="img">
+  return <div className="bungalow-stage hero-background" aria-label="Cinematic 3D preview of a PropVerse bungalow" role="img">
     {townImages.map((image, index) => <div className={`bungalow-image ${index === activeImage ? 'is-active' : ''}`} key={image} style={{ backgroundImage: `url(${image})` }} aria-hidden={index !== activeImage} />)}
     <div className="bungalow-depth bungalow-depth-one" />
     <div className="bungalow-depth bungalow-depth-two" />
@@ -80,20 +81,27 @@ function BungalowVisual() {
   </div>
 }
 
-function Hero() {
+function Hero({ onExplore }: { onExplore: () => void }) {
   return <section id="top" className="hero-section">
-    <div className="hero-copy">
-      <p className="eyebrow">3D REAL ESTATE INTELLIGENCE</p>
-      <h1>See the town<br /><em>before it exists.</em></h1>
-    </div>
-    <div className="hero-visual-wrap">
-      <div className="hero-under hero-under-top">
-        <p>Explore every plot, plan, and possibility in one living model.</p>
-        <div className="hero-actions"><a className="primary-action" href="#towns">Explore the Town <ArrowRight size={16} /></a><a className="text-action" href="#intelligence">Watch how it works <ArrowDownRight size={16} /></a></div>
-      </div>
+    <div className="hero-bg-wrapper">
       <BungalowVisual />
     </div>
-    <div className="hero-scroll-note"><span>SCROLL TO ENTER</span><span className="scroll-line" /></div>
+    <div className="hero-content">
+      <div className="hero-copy">
+        <p className="eyebrow">3D REAL ESTATE INTELLIGENCE</p>
+        <h1>See the town<br /><em>before it exists.</em></h1>
+      </div>
+      <div className="hero-under hero-under-top">
+        <p>Explore every plot, plan, and possibility in one living model.</p>
+        <div className="hero-actions">
+          <button className="primary-action" onClick={onExplore} style={{ cursor: 'pointer', border: 'none' }}>
+            Explore the Town <ArrowRight size={16} />
+          </button>
+          <a className="text-action" href="#intelligence">Watch how it works <ArrowDownRight size={16} /></a>
+        </div>
+      </div>
+      <div className="hero-scroll-note"><span>SCROLL TO ENTER</span><span className="scroll-line" /></div>
+    </div>
   </section>
 }
 
@@ -108,10 +116,10 @@ const features = [
   ['03', 'Plan', 'Compare societies, districts, and possibilities before you make your next move.'],
 ]
 
-function Features() {
+function Features({ onExplore }: { onExplore: () => void }) {
   return <section id="intelligence" className="features-section content-section">
     <div className="section-intro"><p className="eyebrow">A living point of view</p><h2>Property is more<br /><em>than a pin on a map.</em></h2></div>
-    <div className="feature-grid">{features.map(([number, title, text]) => <article className="feature-item" key={number}><span className="feature-number">{number}</span><h3>{title}</h3><p>{text}</p><a href="#towns" aria-label={`Explore ${title}`}><ArrowRight size={17} /></a></article>)}</div>
+    <div className="feature-grid">{features.map(([number, title, text]) => <article className="feature-item" key={number}><span className="feature-number">{number}</span><h3>{title}</h3><p>{text}</p><button onClick={onExplore} aria-label={`Explore ${title}`} style={{ background: 'transparent', border: '1px solid var(--border)', cursor: 'pointer', display: 'grid', width: '2.7rem', height: '2.7rem', placeItems: 'center', marginTop: '2.4rem', color: 'var(--clay)', transition: 'background .2s, color .2s' }}><ArrowRight size={17} /></button></article>)}</div>
   </section>
 }
 
@@ -128,5 +136,25 @@ function Footer() {
 }
 
 export default function PropVerseLanding() {
-  return <main><Navbar /><Hero /><Marquee /><Features /><QuoteBreak /><Stats /><section id="towns" className="towns-section content-section"><p className="eyebrow">A town in your hands</p><h2>Walk it. Read it.<br /><em>Know it.</em></h2><a className="primary-action" href="#top">Launch the 3D experience <MoveUpRight size={16} /></a></section><Footer /></main>
+  const [show3D, setShow3D] = useState(false);
+
+  return <main>
+    <Navbar />
+    <Hero onExplore={() => setShow3D(true)} />
+    <Marquee />
+    <Features onExplore={() => setShow3D(true)} />
+    <QuoteBreak />
+    <Stats />
+    <section id="towns" className="towns-section content-section">
+      <p className="eyebrow">A town in your hands</p>
+      <h2>Walk it. Read it.<br /><em>Know it.</em></h2>
+      <button className="primary-action" onClick={() => setShow3D(true)} style={{ cursor: 'pointer', border: 'none', marginTop: '3rem' }}>
+        Launch the 3D experience <MoveUpRight size={16} />
+      </button>
+    </section>
+    <Footer />
+    
+    {/* Always rendered to keep WebGL context, just visually hidden when not active */}
+    <TownCanvas visible={show3D} onClose={() => setShow3D(false)} />
+  </main>
 }

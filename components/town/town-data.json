@@ -1,0 +1,42 @@
+{
+  "project": "PropVerse Town Phase 1+2+3",
+  "totalPlots": 40,
+  "occupiedPlots": 26,
+  "emptyPlots": 14,
+  "civicBlocks": 6,
+  "samplePlots": [
+    {
+      "id": "P-1",
+      "streetId": "street-1",
+      "size": "12marla",
+      "status": "occupied",
+      "variant": "A",
+      "houseId": "H-STREET-1-P01",
+      "position": { "x": -13.35, "z": -61.15 },
+      "bounds": { "w": 10.7, "d": 21.3 },
+      "address": "Street 1 North Plot 2"
+    },
+    {
+      "id": "P-2",
+      "streetId": "street-1",
+      "size": "7marla",
+      "status": "occupied",
+      "variant": "B",
+      "houseId": "H-STREET-1-P02",
+      "position": { "x": -23.75, "z": -58.90 },
+      "bounds": { "w": 9.1, "d": 16.8 },
+      "address": "Street 1 North Plot 3"
+    },
+    {
+      "id": "P-3",
+      "streetId": "street-1",
+      "size": "5marla",
+      "status": "empty",
+      "variant": null,
+      "houseId": null,
+      "position": { "x": -32.60, "z": -57.35 },
+      "bounds": { "w": 7.6, "d": 13.7 },
+      "address": "Street 1 North Plot 4"
+    }
+  ]
+}
