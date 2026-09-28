@@ -1,47 +1,13 @@
 'use client'
 
-import { useEffect, useState } from 'react'
-import { ArrowDownRight, ArrowRight, Menu, MoveUpRight, X } from 'lucide-react'
-import TownCanvas from '../town/TownCanvas'
-
-const navItems = [
-  ['Towns', '#towns'],
-  ['Intelligence', '#intelligence'],
-  ['About', '#about'],
-  ['Contact', '#contact'],
-]
+import { useState } from 'react'
+import { ArrowRight, MoveUpRight } from 'lucide-react'
+import { Hero, Navbar } from '@/src/features/landing'
+import { TownCanvas } from '@/src/features/town'
+import { AgentWidget } from '@/src/features/rag'
 
 function Logo() {
   return <a href="#top" className="wordmark" aria-label="PropVerse home">PropVerse</a>
-}
-
-function Navbar() {
-  const [open, setOpen] = useState(false)
-  const [scrolled, setScrolled] = useState(false)
-
-  useEffect(() => {
-    const onScroll = () => setScrolled(window.scrollY > 24)
-    onScroll()
-    window.addEventListener('scroll', onScroll, { passive: true })
-    return () => window.removeEventListener('scroll', onScroll)
-  }, [])
-
-  return <header className={`site-nav ${scrolled ? 'is-scrolled' : ''}`}>
-    <div className="nav-inner">
-      <Logo />
-      <nav className="desktop-nav" aria-label="Primary navigation">
-        {navItems.map(([label, href]) => <a key={label} href={href}>{label}</a>)}
-      </nav>
-      <a className="nav-cta" href="#towns">Visit the Town <MoveUpRight size={14} /></a>
-      <button className="menu-button" type="button" aria-label={open ? 'Close menu' : 'Open menu'} onClick={() => setOpen(!open)}>
-        {open ? <X size={22} /> : <Menu size={22} />}
-      </button>
-    </div>
-    {open && <nav className="mobile-nav" aria-label="Mobile navigation">
-      {navItems.map(([label, href]) => <a key={label} href={href} onClick={() => setOpen(false)}>{label}</a>)}
-      <a className="mobile-cta" href="#towns" onClick={() => setOpen(false)}>Visit the Town <MoveUpRight size={16} /></a>
-    </nav>}
-  </header>
 }
 
 function TownVisual({ large = false }: { large?: boolean }) {
@@ -54,55 +20,6 @@ function TownVisual({ large = false }: { large?: boolean }) {
     <div className="town-water" />
     <div className="visual-caption"><span>PROPVERSE / TOWN 01</span><span>31.5°N 74.3°E</span></div>
   </div>
-}
-
-const townImages = [
-  '/images/propverse-town-aerial.png',
-  '/images/propverse-town-variant.png',
-  '/images/propverse-bungalow.png',
-]
-
-function BungalowVisual() {
-  const [activeImage, setActiveImage] = useState(0)
-
-  useEffect(() => {
-    const timer = window.setInterval(() => setActiveImage((current) => (current + 1) % townImages.length), 5200)
-    return () => window.clearInterval(timer)
-  }, [])
-
-  return <div className="bungalow-stage hero-background" aria-label="Cinematic 3D preview of a PropVerse bungalow" role="img">
-    {townImages.map((image, index) => <div className={`bungalow-image ${index === activeImage ? 'is-active' : ''}`} key={image} style={{ backgroundImage: `url(${image})` }} aria-hidden={index !== activeImage} />)}
-    <div className="bungalow-depth bungalow-depth-one" />
-    <div className="bungalow-depth bungalow-depth-two" />
-    <div className="bungalow-grid" />
-    <div className="bungalow-label"><span>PROPERTY / 00{activeImage + 1}</span><span>LAT 31.5°N — LONG 74.3°E</span></div>
-    <div className="bungalow-stamp">LIVE<br />MODEL</div>
-    <div className="bungalow-progress" aria-label="Image carousel progress">{townImages.map((image, index) => <button type="button" key={image} className={index === activeImage ? 'is-active' : ''} aria-label={`View design ${index + 1}`} onClick={() => setActiveImage(index)} />)}</div>
-  </div>
-}
-
-function Hero({ onExplore }: { onExplore: () => void }) {
-  return <section id="top" className="hero-section">
-    <div className="hero-bg-wrapper">
-      <BungalowVisual />
-    </div>
-    <div className="hero-content">
-      <div className="hero-copy">
-        <p className="eyebrow">3D REAL ESTATE INTELLIGENCE</p>
-        <h1>See the town<br /><em>before it exists.</em></h1>
-      </div>
-      <div className="hero-under hero-under-top">
-        <p>Explore every plot, plan, and possibility in one living model.</p>
-        <div className="hero-actions">
-          <button className="primary-action" onClick={onExplore} style={{ cursor: 'pointer', border: 'none' }}>
-            Explore the Town <ArrowRight size={16} />
-          </button>
-          <a className="text-action" href="#intelligence">Watch how it works <ArrowDownRight size={16} /></a>
-        </div>
-      </div>
-      <div className="hero-scroll-note"><span>SCROLL TO ENTER</span><span className="scroll-line" /></div>
-    </div>
-  </section>
 }
 
 function Marquee() {
@@ -139,7 +56,7 @@ export default function PropVerseLanding() {
   const [show3D, setShow3D] = useState(false);
 
   return <main>
-    <Navbar />
+    <Navbar onExplore={() => setShow3D(true)} />
     <Hero onExplore={() => setShow3D(true)} />
     <Marquee />
     <Features onExplore={() => setShow3D(true)} />
@@ -156,5 +73,6 @@ export default function PropVerseLanding() {
     
     {/* Always rendered to keep WebGL context, just visually hidden when not active */}
     <TownCanvas visible={show3D} onClose={() => setShow3D(false)} />
+    {show3D && <AgentWidget />}
   </main>
 }

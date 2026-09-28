@@ -1,0 +1,919 @@
+{
+ "$schema": "UnitData[] — see src/shared/types/town.ts",
+ "town": "PropVerse Town 01",
+ "units": [
+  {
+   "id": "P-1",
+   "unitType": "plot",
+   "name": "House 1 · Street 2",
+   "status": "allotted",
+   "bedrooms": 5,
+   "facing": "South",
+   "road": "Corner · Street 2 & Boulevard",
+   "possession": "Ready",
+   "houseType": "Double-storey bungalow",
+   "address": "P-1, Street 2, PropVerse Town 01",
+   "imageUrl": "/images/town/house-12marla.jpg",
+   "price": {
+    "totalPkr": 24500000,
+    "paidPkr": 9800000
+   },
+   "owner": {
+    "name": "Ayesha Khan",
+    "phone": "+92 309 4842579"
+   },
+   "timeline": [
+    {
+     "label": "Booked",
+     "date": "2026-01-27"
+    },
+    {
+     "label": "Allotted",
+     "date": "2026-03-06"
+    }
+   ]
+  },
+  {
+   "id": "P-2",
+   "unitType": "plot",
+   "name": "House 2 · Street 2",
+   "status": "free",
+   "bedrooms": 4,
+   "facing": "South",
+   "road": "Street 2 · 26 ft",
+   "possession": "Ready",
+   "houseType": "Double-storey bungalow",
+   "address": "P-2, Street 2, PropVerse Town 01",
+   "imageUrl": "/images/town/house-7marla.jpg",
+   "price": {
+    "totalPkr": 16500000,
+    "paidPkr": 0
+   },
+   "owner": {
+    "name": "PropVerse Sales Desk",
+    "phone": "+92 42 3571 0000"
+   },
+   "timeline": [
+    {
+     "label": "Released for booking",
+     "date": "2026-06-01"
+    }
+   ]
+  },
+  {
+   "id": "P-3",
+   "unitType": "plot",
+   "name": "House 3 · Street 2",
+   "status": "allotted",
+   "bedrooms": 3,
+   "facing": "South",
+   "road": "Street 2 · 26 ft",
+   "possession": "Ready",
+   "houseType": "Double-storey bungalow",
+   "address": "P-3, Street 2, PropVerse Town 01",
+   "imageUrl": "/images/town/house-5marla.jpg",
+   "price": {
+    "totalPkr": 11500000,
+    "paidPkr": 4600000
+   },
+   "owner": {
+    "name": "Fatima Malik",
+    "phone": "+92 327 5137258"
+   },
+   "timeline": [
+    {
+     "label": "Booked",
+     "date": "2025-05-05"
+    },
+    {
+     "label": "Allotted",
+     "date": "2025-07-23"
+    }
+   ]
+  },
+  {
+   "id": "P-4",
+   "unitType": "plot",
+   "name": "House 4 · Street 2",
+   "status": "rented",
+   "bedrooms": 3,
+   "facing": "South",
+   "road": "Street 2 · 26 ft",
+   "possession": "Ready",
+   "houseType": "Double-storey bungalow",
+   "address": "P-4, Street 2, PropVerse Town 01",
+   "imageUrl": "/images/town/house-5marla.jpg",
+   "price": {
+    "totalPkr": 11500000,
+    "paidPkr": 11500000
+   },
+   "owner": {
+    "name": "Bilal Javed",
+    "phone": "+92 330 6197824"
+   },
+   "timeline": [
+    {
+     "label": "Booked",
+     "date": "2026-04-18"
+    },
+    {
+     "label": "Allotted",
+     "date": "2026-06-20"
+    },
+    {
+     "label": "Rented out",
+     "date": "2026-08-01"
+    }
+   ]
+  },
+  {
+   "id": "P-5",
+   "unitType": "plot",
+   "name": "House 5 · Street 2",
+   "status": "free",
+   "bedrooms": 4,
+   "facing": "South",
+   "road": "Street 2 · 26 ft",
+   "possession": "Q1 2027",
+   "houseType": "Double-storey bungalow",
+   "address": "P-5, Street 2, PropVerse Town 01",
+   "imageUrl": "/images/town/house-7marla.jpg",
+   "price": {
+    "totalPkr": 16500000,
+    "paidPkr": 0
+   },
+   "owner": {
+    "name": "PropVerse Sales Desk",
+    "phone": "+92 42 3571 0000"
+   },
+   "timeline": [
+    {
+     "label": "Released for booking",
+     "date": "2026-06-01"
+    }
+   ]
+  },
+  {
+   "id": "P-6",
+   "unitType": "plot",
+   "name": "House 6 · Street 2",
+   "status": "allotted",
+   "bedrooms": 3,
+   "facing": "South",
+   "road": "Street 2 · 26 ft",
+   "possession": "Ready",
+   "houseType": "Double-storey bungalow",
+   "address": "P-6, Street 2, PropVerse Town 01",
+   "imageUrl": "/images/town/house-5marla.jpg",
+   "price": {
+    "totalPkr": 11500000,
+    "paidPkr": 11500000
+   },
+   "owner": {
+    "name": "Usman Mirza",
+    "phone": "+92 332 4243644"
+   },
+   "timeline": [
+    {
+     "label": "Booked",
+     "date": "2025-03-17"
+    },
+    {
+     "label": "Allotted",
+     "date": "2025-05-11"
+    }
+   ]
+  },
+  {
+   "id": "P-7",
+   "unitType": "plot",
+   "name": "House 7 · Street 2",
+   "status": "allotted",
+   "bedrooms": 4,
+   "facing": "North",
+   "road": "Corner · Street 2 & Boulevard",
+   "possession": "Ready",
+   "houseType": "Double-storey bungalow",
+   "address": "P-7, Street 2, PropVerse Town 01",
+   "imageUrl": "/images/town/house-7marla.jpg",
+   "price": {
+    "totalPkr": 16500000,
+    "paidPkr": 11550000
+   },
+   "owner": {
+    "name": "Maryam Siddiqui",
+    "phone": "+92 315 1226498"
+   },
+   "timeline": [
+    {
+     "label": "Booked",
+     "date": "2025-11-12"
+    },
+    {
+     "label": "Allotted",
+     "date": "2025-12-18"
+    }
+   ]
+  },
+  {
+   "id": "P-8",
+   "unitType": "plot",
+   "name": "House 8 · Street 2",
+   "status": "free",
+   "bedrooms": 4,
+   "facing": "North",
+   "road": "Street 2 · 26 ft",
+   "possession": "Q2 2027",
+   "houseType": "Double-storey bungalow",
+   "address": "P-8, Street 2, PropVerse Town 01",
+   "imageUrl": "/images/town/house-7marla.jpg",
+   "price": {
+    "totalPkr": 16500000,
+    "paidPkr": 0
+   },
+   "owner": {
+    "name": "PropVerse Sales Desk",
+    "phone": "+92 42 3571 0000"
+   },
+   "timeline": [
+    {
+     "label": "Released for booking",
+     "date": "2026-06-01"
+    }
+   ]
+  },
+  {
+   "id": "P-9",
+   "unitType": "plot",
+   "name": "House 9 · Street 2",
+   "status": "rented",
+   "bedrooms": 3,
+   "facing": "North",
+   "road": "Street 2 · 26 ft",
+   "possession": "Ready",
+   "houseType": "Double-storey bungalow",
+   "address": "P-9, Street 2, PropVerse Town 01",
+   "imageUrl": "/images/town/house-5marla.jpg",
+   "price": {
+    "totalPkr": 11500000,
+    "paidPkr": 11500000
+   },
+   "owner": {
+    "name": "Hira Rana",
+    "phone": "+92 301 3996711"
+   },
+   "timeline": [
+    {
+     "label": "Booked",
+     "date": "2026-01-13"
+    },
+    {
+     "label": "Allotted",
+     "date": "2026-03-22"
+    },
+    {
+     "label": "Rented out",
+     "date": "2026-05-01"
+    }
+   ]
+  },
+  {
+   "id": "P-10",
+   "unitType": "plot",
+   "name": "House 10 · Street 2",
+   "status": "allotted",
+   "bedrooms": 3,
+   "facing": "North",
+   "road": "Street 2 · 26 ft",
+   "possession": "Ready",
+   "houseType": "Double-storey bungalow",
+   "address": "P-10, Street 2, PropVerse Town 01",
+   "imageUrl": "/images/town/house-5marla.jpg",
+   "price": {
+    "totalPkr": 11500000,
+    "paidPkr": 6325000
+   },
+   "owner": {
+    "name": "Saad Sheikh",
+    "phone": "+92 308 3511130"
+   },
+   "timeline": [
+    {
+     "label": "Booked",
+     "date": "2025-11-05"
+    },
+    {
+     "label": "Allotted",
+     "date": "2025-12-06"
+    }
+   ]
+  },
+  {
+   "id": "P-11",
+   "unitType": "plot",
+   "name": "House 11 · Street 2",
+   "status": "allotted",
+   "bedrooms": 4,
+   "facing": "North",
+   "road": "Street 2 · 26 ft",
+   "possession": "Ready",
+   "houseType": "Double-storey bungalow",
+   "address": "P-11, Street 2, PropVerse Town 01",
+   "imageUrl": "/images/town/house-7marla.jpg",
+   "price": {
+    "totalPkr": 16500000,
+    "paidPkr": 9075000
+   },
+   "owner": {
+    "name": "Amna Javed",
+    "phone": "+92 311 7155616"
+   },
+   "timeline": [
+    {
+     "label": "Booked",
+     "date": "2025-03-18"
+    },
+    {
+     "label": "Allotted",
+     "date": "2025-05-27"
+    }
+   ]
+  },
+  {
+   "id": "P-12",
+   "unitType": "plot",
+   "name": "House 12 · Street 2",
+   "status": "free",
+   "bedrooms": 4,
+   "facing": "North",
+   "road": "Street 2 · 26 ft",
+   "possession": "Q1 2027",
+   "houseType": "Double-storey bungalow",
+   "address": "P-12, Street 2, PropVerse Town 01",
+   "imageUrl": "/images/town/house-7marla.jpg",
+   "price": {
+    "totalPkr": 16500000,
+    "paidPkr": 0
+   },
+   "owner": {
+    "name": "PropVerse Sales Desk",
+    "phone": "+92 42 3571 0000"
+   },
+   "timeline": [
+    {
+     "label": "Released for booking",
+     "date": "2026-06-01"
+    }
+   ]
+  },
+  {
+   "id": "P-13",
+   "unitType": "plot",
+   "name": "House 13 · Street 2",
+   "status": "allotted",
+   "bedrooms": 3,
+   "facing": "North",
+   "road": "Street 2 · 26 ft",
+   "possession": "Ready",
+   "houseType": "Double-storey bungalow",
+   "address": "P-13, Street 2, PropVerse Town 01",
+   "imageUrl": "/images/town/house-5marla.jpg",
+   "price": {
+    "totalPkr": 11500000,
+    "paidPkr": 9775000
+   },
+   "owner": {
+    "name": "Sana Abbasi",
+    "phone": "+92 314 6026645"
+   },
+   "timeline": [
+    {
+     "label": "Booked",
+     "date": "2025-11-22"
+    },
+    {
+     "label": "Allotted",
+     "date": "2025-12-28"
+    }
+   ]
+  },
+  {
+   "id": "P-14",
+   "unitType": "plot",
+   "name": "House 14 · Street 1",
+   "status": "rented",
+   "bedrooms": 4,
+   "facing": "South",
+   "road": "Corner · Street 1 & Boulevard",
+   "possession": "Ready",
+   "houseType": "Double-storey bungalow",
+   "address": "P-14, Street 1, PropVerse Town 01",
+   "imageUrl": "/images/town/house-7marla.jpg",
+   "price": {
+    "totalPkr": 16500000,
+    "paidPkr": 16500000
+   },
+   "owner": {
+    "name": "Imran Abbasi",
+    "phone": "+92 301 3133301"
+   },
+   "timeline": [
+    {
+     "label": "Booked",
+     "date": "2025-08-24"
+    },
+    {
+     "label": "Allotted",
+     "date": "2025-10-04"
+    },
+    {
+     "label": "Rented out",
+     "date": "2026-02-01"
+    }
+   ]
+  },
+  {
+   "id": "P-15",
+   "unitType": "plot",
+   "name": "House 15 · Street 1",
+   "status": "free",
+   "bedrooms": 4,
+   "facing": "South",
+   "road": "Street 1 · 26 ft",
+   "possession": "Ready",
+   "houseType": "Double-storey bungalow",
+   "address": "P-15, Street 1, PropVerse Town 01",
+   "imageUrl": "/images/town/house-7marla.jpg",
+   "price": {
+    "totalPkr": 16500000,
+    "paidPkr": 0
+   },
+   "owner": {
+    "name": "PropVerse Sales Desk",
+    "phone": "+92 42 3571 0000"
+   },
+   "timeline": [
+    {
+     "label": "Released for booking",
+     "date": "2026-06-01"
+    }
+   ]
+  },
+  {
+   "id": "P-16",
+   "unitType": "plot",
+   "name": "House 16 · Street 1",
+   "status": "allotted",
+   "bedrooms": 3,
+   "facing": "South",
+   "road": "Street 1 · 26 ft",
+   "possession": "Ready",
+   "houseType": "Double-storey bungalow",
+   "address": "P-16, Street 1, PropVerse Town 01",
+   "imageUrl": "/images/town/house-5marla.jpg",
+   "price": {
+    "totalPkr": 11500000,
+    "paidPkr": 11500000
+   },
+   "owner": {
+    "name": "Kashif Khan",
+    "phone": "+92 343 4660065"
+   },
+   "timeline": [
+    {
+     "label": "Booked",
+     "date": "2026-04-17"
+    },
+    {
+     "label": "Allotted",
+     "date": "2026-06-15"
+    }
+   ]
+  },
+  {
+   "id": "P-17",
+   "unitType": "plot",
+   "name": "House 17 · Street 1",
+   "status": "allotted",
+   "bedrooms": 3,
+   "facing": "South",
+   "road": "Street 1 · 26 ft",
+   "possession": "Ready",
+   "houseType": "Double-storey bungalow",
+   "address": "P-17, Street 1, PropVerse Town 01",
+   "imageUrl": "/images/town/house-5marla.jpg",
+   "price": {
+    "totalPkr": 11500000,
+    "paidPkr": 9775000
+   },
+   "owner": {
+    "name": "Mehwish Malik",
+    "phone": "+92 310 6905267"
+   },
+   "timeline": [
+    {
+     "label": "Booked",
+     "date": "2025-05-14"
+    },
+    {
+     "label": "Allotted",
+     "date": "2025-07-21"
+    }
+   ]
+  },
+  {
+   "id": "P-18",
+   "unitType": "plot",
+   "name": "House 18 · Street 1",
+   "status": "free",
+   "bedrooms": 4,
+   "facing": "South",
+   "road": "Street 1 · 26 ft",
+   "possession": "Q2 2027",
+   "houseType": "Double-storey bungalow",
+   "address": "P-18, Street 1, PropVerse Town 01",
+   "imageUrl": "/images/town/house-7marla.jpg",
+   "price": {
+    "totalPkr": 16500000,
+    "paidPkr": 0
+   },
+   "owner": {
+    "name": "PropVerse Sales Desk",
+    "phone": "+92 42 3571 0000"
+   },
+   "timeline": [
+    {
+     "label": "Released for booking",
+     "date": "2026-06-01"
+    }
+   ]
+  },
+  {
+   "id": "P-19",
+   "unitType": "plot",
+   "name": "House 19 · Street 1",
+   "status": "rented",
+   "bedrooms": 5,
+   "facing": "South",
+   "road": "Street 1 · 26 ft",
+   "possession": "Ready",
+   "houseType": "Double-storey bungalow",
+   "address": "P-19, Street 1, PropVerse Town 01",
+   "imageUrl": "/images/town/house-12marla.jpg",
+   "price": {
+    "totalPkr": 24500000,
+    "paidPkr": 24500000
+   },
+   "owner": {
+    "name": "Rabia Sheikh",
+    "phone": "+92 336 5287215"
+   },
+   "timeline": [
+    {
+     "label": "Booked",
+     "date": "2025-08-19"
+    },
+    {
+     "label": "Allotted",
+     "date": "2025-10-18"
+    },
+    {
+     "label": "Rented out",
+     "date": "2026-06-01"
+    }
+   ]
+  },
+  {
+   "id": "P-20",
+   "unitType": "plot",
+   "name": "House 20 · Street 1",
+   "status": "allotted",
+   "bedrooms": 4,
+   "facing": "North",
+   "road": "Corner · Street 1 & Boulevard",
+   "possession": "Ready",
+   "houseType": "Double-storey bungalow",
+   "address": "P-20, Street 1, PropVerse Town 01",
+   "imageUrl": "/images/town/house-7marla.jpg",
+   "price": {
+    "totalPkr": 16500000,
+    "paidPkr": 16500000
+   },
+   "owner": {
+    "name": "Adeel Rana",
+    "phone": "+92 340 8131293"
+   },
+   "timeline": [
+    {
+     "label": "Booked",
+     "date": "2025-08-18"
+    },
+    {
+     "label": "Allotted",
+     "date": "2025-10-27"
+    }
+   ]
+  },
+  {
+   "id": "P-21",
+   "unitType": "plot",
+   "name": "House 21 · Street 1",
+   "status": "allotted",
+   "bedrooms": 4,
+   "facing": "North",
+   "road": "Street 1 · 26 ft",
+   "possession": "Ready",
+   "houseType": "Double-storey bungalow",
+   "address": "P-21, Street 1, PropVerse Town 01",
+   "imageUrl": "/images/town/house-7marla.jpg",
+   "price": {
+    "totalPkr": 16500000,
+    "paidPkr": 9075000
+   },
+   "owner": {
+    "name": "Iqra Qureshi",
+    "phone": "+92 330 1140189"
+   },
+   "timeline": [
+    {
+     "label": "Booked",
+     "date": "2026-01-02"
+    },
+    {
+     "label": "Allotted",
+     "date": "2026-03-10"
+    }
+   ]
+  },
+  {
+   "id": "P-22",
+   "unitType": "plot",
+   "name": "House 22 · Street 1",
+   "status": "free",
+   "bedrooms": 5,
+   "facing": "North",
+   "road": "Street 1 · 26 ft",
+   "possession": "Q1 2027",
+   "houseType": "Double-storey bungalow",
+   "address": "P-22, Street 1, PropVerse Town 01",
+   "imageUrl": "/images/town/house-12marla.jpg",
+   "price": {
+    "totalPkr": 24500000,
+    "paidPkr": 0
+   },
+   "owner": {
+    "name": "PropVerse Sales Desk",
+    "phone": "+92 42 3571 0000"
+   },
+   "timeline": [
+    {
+     "label": "Released for booking",
+     "date": "2026-06-01"
+    }
+   ]
+  },
+  {
+   "id": "P-23",
+   "unitType": "plot",
+   "name": "House 23 · Street 1",
+   "status": "allotted",
+   "bedrooms": 3,
+   "facing": "North",
+   "road": "Street 1 · 26 ft",
+   "possession": "Ready",
+   "houseType": "Double-storey bungalow",
+   "address": "P-23, Street 1, PropVerse Town 01",
+   "imageUrl": "/images/town/house-5marla.jpg",
+   "price": {
+    "totalPkr": 11500000,
+    "paidPkr": 9775000
+   },
+   "owner": {
+    "name": "Farah Qureshi",
+    "phone": "+92 313 9081319"
+   },
+   "timeline": [
+    {
+     "label": "Booked",
+     "date": "2026-04-20"
+    },
+    {
+     "label": "Allotted",
+     "date": "2026-06-24"
+    }
+   ]
+  },
+  {
+   "id": "P-24",
+   "unitType": "plot",
+   "name": "House 24 · Street 1",
+   "status": "rented",
+   "bedrooms": 4,
+   "facing": "North",
+   "road": "Street 1 · 26 ft",
+   "possession": "Ready",
+   "houseType": "Double-storey bungalow",
+   "address": "P-24, Street 1, PropVerse Town 01",
+   "imageUrl": "/images/town/house-7marla.jpg",
+   "price": {
+    "totalPkr": 16500000,
+    "paidPkr": 16500000
+   },
+   "owner": {
+    "name": "Waqas Khan",
+    "phone": "+92 307 6676529"
+   },
+   "timeline": [
+    {
+     "label": "Booked",
+     "date": "2025-08-18"
+    },
+    {
+     "label": "Allotted",
+     "date": "2025-10-10"
+    },
+    {
+     "label": "Rented out",
+     "date": "2026-06-01"
+    }
+   ]
+  },
+  {
+   "id": "P-25",
+   "unitType": "plot",
+   "name": "House 25 · Street 1",
+   "status": "free",
+   "bedrooms": 5,
+   "facing": "North",
+   "road": "Street 1 · 26 ft",
+   "possession": "Ready",
+   "houseType": "Double-storey bungalow",
+   "address": "P-25, Street 1, PropVerse Town 01",
+   "imageUrl": "/images/town/house-12marla.jpg",
+   "price": {
+    "totalPkr": 24500000,
+    "paidPkr": 0
+   },
+   "owner": {
+    "name": "PropVerse Sales Desk",
+    "phone": "+92 42 3571 0000"
+   },
+   "timeline": [
+    {
+     "label": "Released for booking",
+     "date": "2026-06-01"
+    }
+   ]
+  },
+  {
+   "id": "market-1",
+   "unitType": "civic",
+   "kind": "market",
+   "name": "Community Market North",
+   "department": "Commerce & Estates",
+   "incharge": {
+    "name": "Sheikh Naveed",
+    "phone": "+92 42 3573 9880"
+   },
+   "timings": "9:00 AM – 10:00 PM",
+   "description": "Everyday retail, bakery and fresh produce around an open courtyard.",
+   "address": "Residential Block, PropVerse Town 01",
+   "imageUrl": "/images/town/market.jpg"
+  },
+  {
+   "id": "masjid-2",
+   "unitType": "civic",
+   "kind": "masjid",
+   "name": "Jamia Masjid North",
+   "department": "Religious Affairs",
+   "incharge": {
+    "name": "Maulana Abdul Rauf",
+    "phone": "+92 42 3533 7366"
+   },
+   "timings": "Five daily prayers · Jumu’ah 1:30 PM",
+   "description": "Neighbourhood masjid with ablution court and separate prayer hall for women.",
+   "address": "Residential Block, PropVerse Town 01",
+   "imageUrl": "/images/town/masjid.jpg"
+  },
+  {
+   "id": "market-3",
+   "unitType": "civic",
+   "kind": "market",
+   "name": "Community Market South",
+   "department": "Commerce & Estates",
+   "incharge": {
+    "name": "Mian Shahid",
+    "phone": "+92 42 3513 6106"
+   },
+   "timings": "9:00 AM – 10:00 PM",
+   "description": "Everyday retail, bakery and fresh produce around an open courtyard.",
+   "address": "Residential Block, PropVerse Town 01",
+   "imageUrl": "/images/town/market.jpg"
+  },
+  {
+   "id": "masjid-4",
+   "unitType": "civic",
+   "kind": "masjid",
+   "name": "Jamia Masjid South",
+   "department": "Religious Affairs",
+   "incharge": {
+    "name": "Qari Muhammad Idrees",
+    "phone": "+92 42 3512 2674"
+   },
+   "timings": "Five daily prayers · Jumu’ah 1:30 PM",
+   "description": "Neighbourhood masjid with ablution court and separate prayer hall for women.",
+   "address": "Residential Block, PropVerse Town 01",
+   "imageUrl": "/images/town/masjid.jpg"
+  },
+  {
+   "id": "civic-park",
+   "unitType": "civic",
+   "kind": "park",
+   "name": "Central Park",
+   "department": "Parks & Horticulture",
+   "incharge": {
+    "name": "Ms. Rubina Tariq",
+    "phone": "+92 42 3573 5646"
+   },
+   "timings": "6:00 AM – 10:00 PM",
+   "description": "Tree-lined lawn with jogging loop and a children’s playground.",
+   "address": "Civic Zone, PropVerse Town 01",
+   "imageUrl": "/images/town/park.jpg"
+  },
+  {
+   "id": "civic-school",
+   "unitType": "civic",
+   "kind": "school",
+   "name": "PropVerse Grammar School",
+   "department": "Education Department",
+   "incharge": {
+    "name": "Mrs. Nadia Farooq",
+    "phone": "+92 42 3582 3953"
+   },
+   "timings": "7:45 AM – 2:30 PM",
+   "description": "Primary to O-Level campus with science labs, library and sports ground.",
+   "address": "Civic Zone, PropVerse Town 01",
+   "imageUrl": "/images/town/school.jpg"
+  },
+  {
+   "id": "civic-hospital",
+   "unitType": "civic",
+   "kind": "hospital",
+   "name": "Town Hospital",
+   "department": "Health Services",
+   "incharge": {
+    "name": "Dr. Saima Rehman",
+    "phone": "+92 42 3552 1373"
+   },
+   "timings": "24 hours · OPD 8 AM – 8 PM",
+   "description": "40-bed general hospital with emergency, maternity and diagnostics.",
+   "address": "Civic Zone, PropVerse Town 01",
+   "imageUrl": "/images/town/hospital.jpg"
+  },
+  {
+   "id": "civic-police",
+   "unitType": "civic",
+   "kind": "police",
+   "name": "Police Station",
+   "department": "Punjab Police · Town Division",
+   "incharge": {
+    "name": "Insp. Asad Mehmood",
+    "phone": "+92 42 3595 5086"
+   },
+   "timings": "24 hours",
+   "description": "Community policing, FIR desk and emergency response for Town 01.",
+   "address": "Civic Zone, PropVerse Town 01",
+   "imageUrl": "/images/town/police.jpg"
+  },
+  {
+   "id": "civic-fire",
+   "unitType": "civic",
+   "kind": "fire",
+   "name": "Fire & Rescue Station",
+   "department": "Rescue 1122",
+   "incharge": {
+    "name": "Stn. Officer Junaid",
+    "phone": "+92 42 3512 6779"
+   },
+   "timings": "24 hours",
+   "description": "Two-bay fire station with rescue ambulance on standby.",
+   "address": "Civic Zone, PropVerse Town 01",
+   "imageUrl": "/images/town/fire.jpg"
+  },
+  {
+   "id": "civic-wapda",
+   "unitType": "civic",
+   "kind": "wapda",
+   "name": "WAPDA Office",
+   "department": "LESCO · Sub-division",
+   "incharge": {
+    "name": "Engr. Kamran Ali",
+    "phone": "+92 42 3588 9333"
+   },
+   "timings": "9:00 AM – 5:00 PM",
+   "description": "Electricity billing, new connections and complaint cell.",
+   "address": "Civic Zone, PropVerse Town 01",
+   "imageUrl": "/images/town/wapda.jpg"
+  }
+ ]
+}

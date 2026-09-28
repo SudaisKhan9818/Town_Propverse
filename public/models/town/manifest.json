@@ -1,0 +1,414 @@
+{
+ "models": {
+  "house-5marla": {
+   "source": "components/town/MODELS/5Marla.glb",
+   "sourceBytes": 2743060,
+   "lods": [
+    {
+     "level": "lod0",
+     "url": "/models/town/house-5marla.glb",
+     "bytes": 82416,
+     "gzipBytes": 77029,
+     "triangles": 15262,
+     "drawCalls": 3
+    },
+    {
+     "level": "lod1",
+     "url": "/models/town/house-5marla.lod1.glb",
+     "bytes": 25552,
+     "gzipBytes": 22060,
+     "triangles": 2744,
+     "drawCalls": 3
+    }
+   ],
+   "before": {
+    "triangles": 49667,
+    "drawCalls": 18,
+    "materials": 18
+   },
+   "bbox": {
+    "min": [
+     -4.221,
+     -5.051,
+     -9.738
+    ],
+    "max": [
+     4.279,
+     3.949,
+     6.262
+    ]
+   }
+  },
+  "house-7marla": {
+   "source": "components/town/MODELS/7 Marla.glb",
+   "sourceBytes": 752180,
+   "lods": [
+    {
+     "level": "lod0",
+     "url": "/models/town/house-7marla.glb",
+     "bytes": 27536,
+     "gzipBytes": 25724,
+     "triangles": 5786,
+     "drawCalls": 1
+    },
+    {
+     "level": "lod1",
+     "url": "/models/town/house-7marla.lod1.glb",
+     "bytes": 16224,
+     "gzipBytes": 14220,
+     "triangles": 2180,
+     "drawCalls": 1
+    }
+   ],
+   "before": {
+    "triangles": 13174,
+    "drawCalls": 23,
+    "materials": 23
+   },
+   "bbox": {
+    "min": [
+     -4.786,
+     -3.209,
+     -8.271
+    ],
+    "max": [
+     4.358,
+     3.291,
+     11.079
+    ]
+   }
+  },
+  "house-12marla": {
+   "source": "components/town/MODELS/12Marla.glb",
+   "sourceBytes": 4606372,
+   "lods": [
+    {
+     "level": "lod0",
+     "url": "/models/town/house-12marla.glb",
+     "bytes": 86408,
+     "gzipBytes": 81240,
+     "triangles": 16505,
+     "drawCalls": 1
+    },
+    {
+     "level": "lod1",
+     "url": "/models/town/house-12marla.lod1.glb",
+     "bytes": 26760,
+     "gzipBytes": 25016,
+     "triangles": 3283,
+     "drawCalls": 1
+    }
+   ],
+   "before": {
+    "triangles": 77119,
+    "drawCalls": 63,
+    "materials": 59
+   },
+   "bbox": {
+    "min": [
+     -7.45,
+     0.067,
+     -16.377
+    ],
+    "max": [
+     7.55,
+     13,
+     13.954
+    ]
+   }
+  },
+  "market": {
+   "source": "components/town/MODELS/market.glb",
+   "sourceBytes": 83226700,
+   "lods": [
+    {
+     "level": "lod0",
+     "url": "/models/town/market.glb",
+     "bytes": 256144,
+     "gzipBytes": 248138,
+     "triangles": 52475,
+     "drawCalls": 2
+    },
+    {
+     "level": "lod1",
+     "url": "/models/town/market.lod1.glb",
+     "bytes": 120464,
+     "gzipBytes": 113745,
+     "triangles": 24368,
+     "drawCalls": 2
+    }
+   ],
+   "before": {
+    "triangles": 1224639,
+    "drawCalls": 96,
+    "materials": 88
+   },
+   "bbox": {
+    "min": [
+     -12.02,
+     -5.923,
+     -2.625
+    ],
+    "max": [
+     7.951,
+     12.077,
+     27.306
+    ]
+   }
+  },
+  "masjid": {
+   "source": "components/town/MODELS/Masjid.glb",
+   "sourceBytes": 1994272,
+   "lods": [
+    {
+     "level": "lod0",
+     "url": "/models/town/masjid.glb",
+     "bytes": 53584,
+     "gzipBytes": 50210,
+     "triangles": 11027,
+     "drawCalls": 1
+    },
+    {
+     "level": "lod1",
+     "url": "/models/town/masjid.lod1.glb",
+     "bytes": 24932,
+     "gzipBytes": 23038,
+     "triangles": 3864,
+     "drawCalls": 1
+    }
+   ],
+   "before": {
+    "triangles": 16021,
+    "drawCalls": 43,
+    "materials": 43
+   },
+   "bbox": {
+    "min": [
+     -8.629,
+     -2.693,
+     -8.49
+    ],
+    "max": [
+     6.371,
+     8.307,
+     7.51
+    ]
+   }
+  },
+  "school": {
+   "source": "components/town/MODELS/School.glb",
+   "sourceBytes": 64902576,
+   "lods": [
+    {
+     "level": "lod0",
+     "url": "/models/town/school.glb",
+     "bytes": 684280,
+     "gzipBytes": 630858,
+     "triangles": 159959,
+     "drawCalls": 3
+    },
+    {
+     "level": "lod1",
+     "url": "/models/town/school.lod1.glb",
+     "bytes": 170504,
+     "gzipBytes": 159378,
+     "triangles": 33158,
+     "drawCalls": 3
+    }
+   ],
+   "before": {
+    "triangles": 866584,
+    "drawCalls": 23,
+    "materials": 23
+   },
+   "bbox": {
+    "min": [
+     -25.596,
+     -2.582,
+     -11.263
+    ],
+    "max": [
+     29.403,
+     9.418,
+     13.735
+    ]
+   }
+  },
+  "hospital": {
+   "source": "components/town/MODELS/Hospital.glb",
+   "sourceBytes": 5120344,
+   "lods": [
+    {
+     "level": "lod0",
+     "url": "/models/town/hospital.glb",
+     "bytes": 934112,
+     "gzipBytes": 920675,
+     "triangles": 8238,
+     "drawCalls": 11
+    }
+   ],
+   "before": {
+    "triangles": 8238,
+    "drawCalls": 36,
+    "materials": 36
+   },
+   "bbox": {
+    "min": [
+     -13.136,
+     -12.393,
+     -49.696
+    ],
+    "max": [
+     26.864,
+     27.607,
+     30.304
+    ]
+   }
+  },
+  "police": {
+   "source": "components/town/MODELS/PoliceStation.glb",
+   "sourceBytes": 461660,
+   "lods": [
+    {
+     "level": "lod0",
+     "url": "/models/town/police.glb",
+     "bytes": 25152,
+     "gzipBytes": 18366,
+     "triangles": 8663,
+     "drawCalls": 1
+    }
+   ],
+   "before": {
+    "triangles": 8663,
+    "drawCalls": 8,
+    "materials": 8
+   },
+   "bbox": {
+    "min": [
+     -4.123,
+     -2.431,
+     -5.9
+    ],
+    "max": [
+     3.877,
+     2.569,
+     4.1
+    ]
+   }
+  },
+  "fire": {
+   "source": "components/town/MODELS/FireStation.glb",
+   "sourceBytes": 83864,
+   "lods": [
+    {
+     "level": "lod0",
+     "url": "/models/town/fire.glb",
+     "bytes": 8540,
+     "gzipBytes": 6930,
+     "triangles": 1246,
+     "drawCalls": 1
+    }
+   ],
+   "before": {
+    "triangles": 1246,
+    "drawCalls": 14,
+    "materials": 14
+   },
+   "bbox": {
+    "min": [
+     -4.034,
+     -4.312,
+     -9.12
+    ],
+    "max": [
+     7.966,
+     3.688,
+     4.88
+    ]
+   }
+  },
+  "wapda": {
+   "source": "components/town/MODELS/Wapda.glb",
+   "sourceBytes": 78794608,
+   "lods": [
+    {
+     "level": "lod0",
+     "url": "/models/town/wapda.glb",
+     "bytes": 1522164,
+     "gzipBytes": 1515218,
+     "triangles": 109975,
+     "drawCalls": 2
+    },
+    {
+     "level": "lod1",
+     "url": "/models/town/wapda.lod1.glb",
+     "bytes": 802752,
+     "gzipBytes": 799646,
+     "triangles": 27183,
+     "drawCalls": 2
+    }
+   ],
+   "before": {
+    "triangles": 1999999,
+    "drawCalls": 2,
+    "materials": 2
+   },
+   "bbox": {
+    "min": [
+     -10.577,
+     -4.851,
+     -8.798
+    ],
+    "max": [
+     9.423,
+     10.145,
+     11.2
+    ]
+   }
+  },
+  "playground": {
+   "source": "components/town/MODELS/Playground.glb",
+   "sourceBytes": 1410976,
+   "lods": [
+    {
+     "level": "lod0",
+     "url": "/models/town/playground.glb",
+     "bytes": 25848,
+     "gzipBytes": 23473,
+     "triangles": 4614,
+     "drawCalls": 2
+    },
+    {
+     "level": "lod1",
+     "url": "/models/town/playground.lod1.glb",
+     "bytes": 14420,
+     "gzipBytes": 12413,
+     "triangles": 1652,
+     "drawCalls": 2
+    }
+   ],
+   "before": {
+    "triangles": 8498,
+    "drawCalls": 25,
+    "materials": 7
+   },
+   "bbox": {
+    "min": [
+     -4.015,
+     -0.187,
+     -3.578
+    ],
+    "max": [
+     4.365,
+     1.47,
+     2.791
+    ]
+   }
+  }
+ },
+ "generated": "2026-09-27T08:21:48.473Z",
+ "totals": {
+  "bytes": 4907792,
+  "gzipBytes": 4767377
+ }
+}

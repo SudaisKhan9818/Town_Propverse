@@ -1,0 +1,752 @@
+{
+ "streets": [
+  {
+   "id": "boulevard",
+   "position": {
+    "x": 0,
+    "z": 0
+   },
+   "width": 12,
+   "length": 180,
+   "orientation": "NS"
+  },
+  {
+   "id": "street-2",
+   "position": {
+    "x": -49.35,
+    "z": -30
+   },
+   "width": 8,
+   "length": 86.7,
+   "orientation": "EW"
+  },
+  {
+   "id": "street-1",
+   "position": {
+    "x": -49.35,
+    "z": 30
+   },
+   "width": 8,
+   "length": 86.7,
+   "orientation": "EW"
+  },
+  {
+   "id": "civic-road-1",
+   "position": {
+    "x": 48,
+    "z": -40
+   },
+   "width": 8,
+   "length": 84,
+   "orientation": "EW"
+  },
+  {
+   "id": "civic-road-2",
+   "position": {
+    "x": 48,
+    "z": 30
+   },
+   "width": 8,
+   "length": 84,
+   "orientation": "EW"
+  },
+  {
+   "id": "school-hospital-road",
+   "position": {
+    "x": 48,
+    "z": -2.95
+   },
+   "width": 6.1,
+   "length": 84,
+   "orientation": "EW"
+  }
+ ],
+ "plots": [
+  {
+   "id": "P-1",
+   "size": "12marla",
+   "position": {
+    "x": -12.55,
+    "z": -46.65
+   },
+   "bounds": {
+    "w": 10.7,
+    "d": 21.3
+   },
+   "side": "north",
+   "streetId": "street-2"
+  },
+  {
+   "id": "P-2",
+   "size": "7marla",
+   "position": {
+    "x": -23.95,
+    "z": -44.4
+   },
+   "bounds": {
+    "w": 9.1,
+    "d": 16.8
+   },
+   "side": "north",
+   "streetId": "street-2"
+  },
+  {
+   "id": "P-3",
+   "size": "5marla",
+   "position": {
+    "x": -33.8,
+    "z": -42.85
+   },
+   "bounds": {
+    "w": 7.6,
+    "d": 13.7
+   },
+   "side": "north",
+   "streetId": "street-2"
+  },
+  {
+   "id": "P-4",
+   "size": "5marla",
+   "position": {
+    "x": -42.9,
+    "z": -42.85
+   },
+   "bounds": {
+    "w": 7.6,
+    "d": 13.7
+   },
+   "side": "north",
+   "streetId": "street-2"
+  },
+  {
+   "id": "P-5",
+   "size": "7marla",
+   "position": {
+    "x": -52.75,
+    "z": -44.4
+   },
+   "bounds": {
+    "w": 9.1,
+    "d": 16.8
+   },
+   "side": "north",
+   "streetId": "street-2"
+  },
+  {
+   "id": "P-6",
+   "size": "5marla",
+   "position": {
+    "x": -62.6,
+    "z": -42.85
+   },
+   "bounds": {
+    "w": 7.6,
+    "d": 13.7
+   },
+   "side": "north",
+   "streetId": "street-2"
+  },
+  {
+   "id": "P-7",
+   "size": "7marla",
+   "position": {
+    "x": -11.75,
+    "z": -15.6
+   },
+   "bounds": {
+    "w": 9.1,
+    "d": 16.8
+   },
+   "side": "south",
+   "streetId": "street-2"
+  },
+  {
+   "id": "P-8",
+   "size": "7marla",
+   "position": {
+    "x": -22.35,
+    "z": -15.6
+   },
+   "bounds": {
+    "w": 9.1,
+    "d": 16.8
+   },
+   "side": "south",
+   "streetId": "street-2"
+  },
+  {
+   "id": "P-9",
+   "size": "5marla",
+   "position": {
+    "x": -32.2,
+    "z": -17.15
+   },
+   "bounds": {
+    "w": 7.6,
+    "d": 13.7
+   },
+   "side": "south",
+   "streetId": "street-2"
+  },
+  {
+   "id": "P-10",
+   "size": "5marla",
+   "position": {
+    "x": -41.3,
+    "z": -17.15
+   },
+   "bounds": {
+    "w": 7.6,
+    "d": 13.7
+   },
+   "side": "south",
+   "streetId": "street-2"
+  },
+  {
+   "id": "P-11",
+   "size": "7marla",
+   "position": {
+    "x": -51.15,
+    "z": -15.6
+   },
+   "bounds": {
+    "w": 9.1,
+    "d": 16.8
+   },
+   "side": "south",
+   "streetId": "street-2"
+  },
+  {
+   "id": "P-12",
+   "size": "7marla",
+   "position": {
+    "x": -61.75,
+    "z": -15.6
+   },
+   "bounds": {
+    "w": 9.1,
+    "d": 16.8
+   },
+   "side": "south",
+   "streetId": "street-2"
+  },
+  {
+   "id": "P-13",
+   "size": "5marla",
+   "position": {
+    "x": -71.6,
+    "z": -17.15
+   },
+   "bounds": {
+    "w": 7.6,
+    "d": 13.7
+   },
+   "side": "south",
+   "streetId": "street-2"
+  },
+  {
+   "id": "P-14",
+   "size": "7marla",
+   "position": {
+    "x": -11.75,
+    "z": 15.6
+   },
+   "bounds": {
+    "w": 9.1,
+    "d": 16.8
+   },
+   "side": "north",
+   "streetId": "street-1"
+  },
+  {
+   "id": "P-15",
+   "size": "7marla",
+   "position": {
+    "x": -22.35,
+    "z": 15.6
+   },
+   "bounds": {
+    "w": 9.1,
+    "d": 16.8
+   },
+   "side": "north",
+   "streetId": "street-1"
+  },
+  {
+   "id": "P-16",
+   "size": "5marla",
+   "position": {
+    "x": -32.2,
+    "z": 17.15
+   },
+   "bounds": {
+    "w": 7.6,
+    "d": 13.7
+   },
+   "side": "north",
+   "streetId": "street-1"
+  },
+  {
+   "id": "P-17",
+   "size": "5marla",
+   "position": {
+    "x": -41.3,
+    "z": 17.15
+   },
+   "bounds": {
+    "w": 7.6,
+    "d": 13.7
+   },
+   "side": "north",
+   "streetId": "street-1"
+  },
+  {
+   "id": "P-18",
+   "size": "7marla",
+   "position": {
+    "x": -51.15,
+    "z": 15.6
+   },
+   "bounds": {
+    "w": 9.1,
+    "d": 16.8
+   },
+   "side": "north",
+   "streetId": "street-1"
+  },
+  {
+   "id": "P-19",
+   "size": "12marla",
+   "position": {
+    "x": -62.55,
+    "z": 13.35
+   },
+   "bounds": {
+    "w": 10.7,
+    "d": 21.3
+   },
+   "side": "north",
+   "streetId": "street-1"
+  },
+  {
+   "id": "P-20",
+   "size": "7marla",
+   "position": {
+    "x": -11.75,
+    "z": 44.4
+   },
+   "bounds": {
+    "w": 9.1,
+    "d": 16.8
+   },
+   "side": "south",
+   "streetId": "street-1"
+  },
+  {
+   "id": "P-21",
+   "size": "7marla",
+   "position": {
+    "x": -22.35,
+    "z": 44.4
+   },
+   "bounds": {
+    "w": 9.1,
+    "d": 16.8
+   },
+   "side": "south",
+   "streetId": "street-1"
+  },
+  {
+   "id": "P-22",
+   "size": "12marla",
+   "position": {
+    "x": -33.75,
+    "z": 46.65
+   },
+   "bounds": {
+    "w": 10.7,
+    "d": 21.3
+   },
+   "side": "south",
+   "streetId": "street-1"
+  },
+  {
+   "id": "P-23",
+   "size": "5marla",
+   "position": {
+    "x": -44.4,
+    "z": 42.85
+   },
+   "bounds": {
+    "w": 7.6,
+    "d": 13.7
+   },
+   "side": "south",
+   "streetId": "street-1"
+  },
+  {
+   "id": "P-24",
+   "size": "7marla",
+   "position": {
+    "x": -54.25,
+    "z": 44.4
+   },
+   "bounds": {
+    "w": 9.1,
+    "d": 16.8
+   },
+   "side": "south",
+   "streetId": "street-1"
+  },
+  {
+   "id": "P-25",
+   "size": "12marla",
+   "position": {
+    "x": -65.65,
+    "z": 46.65
+   },
+   "bounds": {
+    "w": 10.7,
+    "d": 21.3
+   },
+   "side": "south",
+   "streetId": "street-1"
+  }
+ ],
+ "amenities": [
+  {
+   "id": "market-1",
+   "type": "market",
+   "position": {
+    "x": -78.9,
+    "z": -46
+   },
+   "bounds": {
+    "w": 22,
+    "d": 20,
+    "h": 6.5
+   }
+  },
+  {
+   "id": "masjid-2",
+   "type": "masjid",
+   "position": {
+    "x": -83.9,
+    "z": -17
+   },
+   "bounds": {
+    "w": 14,
+    "d": 14,
+    "h": 8.5
+   }
+  },
+  {
+   "id": "market-3",
+   "type": "market",
+   "position": {
+    "x": -80.4,
+    "z": 14
+   },
+   "bounds": {
+    "w": 22,
+    "d": 20,
+    "h": 6.5
+   }
+  },
+  {
+   "id": "masjid-4",
+   "type": "masjid",
+   "position": {
+    "x": -79.5,
+    "z": 43
+   },
+   "bounds": {
+    "w": 14,
+    "d": 14,
+    "h": 8.5
+   }
+  }
+ ],
+ "civic": [
+  {
+   "id": "civic-park",
+   "type": "park",
+   "position": {
+    "x": 48,
+    "z": -70
+   },
+   "bounds": {
+    "w": 84,
+    "d": 10.5,
+    "h": 0.5
+   }
+  },
+  {
+   "id": "civic-school",
+   "type": "school",
+   "position": {
+    "x": 48,
+    "z": -20
+   },
+   "bounds": {
+    "w": 72,
+    "d": 28,
+    "h": 8
+   }
+  },
+  {
+   "id": "civic-hospital",
+   "type": "hospital",
+   "position": {
+    "x": 48,
+    "z": 13.1
+   },
+   "bounds": {
+    "w": 40,
+    "d": 26,
+    "h": 12
+   }
+  },
+  {
+   "id": "civic-police",
+   "type": "police",
+   "position": {
+    "x": 21,
+    "z": 62.25
+   },
+   "bounds": {
+    "w": 22,
+    "d": 54.5,
+    "h": 9
+   }
+  },
+  {
+   "id": "civic-fire",
+   "type": "fire",
+   "position": {
+    "x": 47,
+    "z": 62.25
+   },
+   "bounds": {
+    "w": 28,
+    "d": 54.5,
+    "h": 16
+   }
+  },
+  {
+   "id": "civic-wapda",
+   "type": "wapda",
+   "position": {
+    "x": 75.75,
+    "z": 62.25
+   },
+   "bounds": {
+    "w": 27.5,
+    "d": 54.5,
+    "h": 19
+   }
+  }
+ ],
+ "greenBelts": [
+  {
+   "position": {
+    "x": -48,
+    "z": 0
+   },
+   "bounds": {
+    "w": 68,
+    "d": 5.2
+   }
+  },
+  {
+   "position": {
+    "x": -48,
+    "z": -58.5
+   },
+   "bounds": {
+    "w": 68,
+    "d": 3.5
+   }
+  },
+  {
+   "position": {
+    "x": -48,
+    "z": 58.5
+   },
+   "bounds": {
+    "w": 68,
+    "d": 3.5
+   }
+  }
+ ],
+ "trees": [
+  {
+   "position": {
+    "x": -78,
+    "z": 0
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -70,
+    "z": 0
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -62,
+    "z": 0
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -54,
+    "z": 0
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -46,
+    "z": 0
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -38,
+    "z": 0
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -30,
+    "z": 0
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -22,
+    "z": 0
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -78,
+    "z": -58.5
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -70,
+    "z": -58.5
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -62,
+    "z": -58.5
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -54,
+    "z": -58.5
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -46,
+    "z": -58.5
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -38,
+    "z": -58.5
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -30,
+    "z": -58.5
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -22,
+    "z": -58.5
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -78,
+    "z": 58.5
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -70,
+    "z": 58.5
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -62,
+    "z": 58.5
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -54,
+    "z": 58.5
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -46,
+    "z": 58.5
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -38,
+    "z": 58.5
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -30,
+    "z": 58.5
+   },
+   "scale": 0.75
+  },
+  {
+   "position": {
+    "x": -22,
+    "z": 58.5
+   },
+   "scale": 0.75
+  }
+ ]
+}

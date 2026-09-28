@@ -1,0 +1,6 @@
+ready (stats logged) after 2565 ms
+boot stats {"calls":95,"triangles":210116,"shadowRefresh":{"calls":177,"triangles":419708},"geometries":54,"textures":41,"programs":18,"pass":true}
+{"aerial":{"calls":95,"tris":210116,"shadowRefresh":[177,419708]},"boulevard":{"calls":65,"tris":159682,"shadowRefresh":[65,159682]},"street-walk":{"calls":43,"tris":199027,"shadowRefresh":[125,694462]},"gate":{"calls":79,"tris":173041,"shadowRefresh":[161,382633]},"civic":{"calls":81,"tris":291152,"shadowRefresh":[163,583536]},"masjid":{"calls":28,"tris":185293,"shadowRefresh":[110,610092]}}
+hover ms 0.006333333353201548
+[warn] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[info] [PropVerse] renderer.info — 95 draw calls, 210,116 triangles (shadow-refresh frame: 177 calls, 419,708 tris), 54 geometries, 41 textures · BUDGET PASS

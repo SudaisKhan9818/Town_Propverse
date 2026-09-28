@@ -1,0 +1,30 @@
+GPU: ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Unspecified Version) ready after 47617 ms
+{
+ "aerial": {
+  "calls": 721,
+  "triangles": 6395234,
+  "geometries": 212,
+  "textures": 110,
+  "programs": 42
+ },
+ "boulevard": {
+  "calls": 684,
+  "triangles": 6393904,
+  "geometries": 212,
+  "textures": 110,
+  "programs": 42
+ },
+ "street-walk": {
+  "calls": 551,
+  "triangles": 6388992,
+  "geometries": 212,
+  "textures": 110,
+  "programs": 42
+ },
+ "gate": {
+  "calls": 677,
+  "triangles": 6394406,
+  "geometries": 212,
+  "textures": 110,
+  "programs": 42
+ }
