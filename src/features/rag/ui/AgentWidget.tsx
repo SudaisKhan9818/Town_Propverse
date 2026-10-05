@@ -12,7 +12,7 @@ import { AnimatePresence, motion } from 'framer-motion';
 import { ArrowUp, Flame, Lightbulb, MessageCircle, Thermometer, X, Zap } from 'lucide-react';
 import { COLORS, FONTS } from '@/src/shared/theme/tokens';
 import { selectTownUnit, useSelectedTownUnit } from '@/src/features/town';
-import { useAgentStore, type ChatMessage } from '../store/agent-store';
+import { setAgentHandler, useAgentStore, type ChatMessage } from '../store/agent-store';
 
 const SUGGESTIONS = [
   { label: 'Ask about GRID', prompt: 'What is the WAPDA grid station status right now?', icon: Zap },
@@ -113,6 +113,27 @@ export default function AgentWidget() {
   const inputRef = useRef<HTMLTextAreaElement>(null);
 
   useEffect(() => {
+    setAgentHandler(async (message, history) => {
+      const response = await fetch('/api/ask', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ question: message, history }),
+      });
+      const body = await response.json() as {
+        answer?: string;
+        error?: string;
+        action?: { type?: string; target?: string | null };
+      };
+      if (!response.ok) throw new Error(body.error ?? 'The Town Agent request failed.');
+      if (body.action?.type === 'FOCUS' && body.action.target) {
+        await selectTownUnit(body.action.target);
+      }
+      return body.answer ?? 'I could not generate an answer.';
+    });
+    return () => setAgentHandler(null);
+  }, []);
+
+  useEffect(() => {
     const q = window.matchMedia('(min-width: 768px)');
     const update = () => setDesktop(q.matches);
     update();
@@ -125,6 +146,17 @@ export default function AgentWidget() {
   }, [messages, pending]);
 
   useEffect(() => { if (open) inputRef.current?.focus(); }, [open]);
+
+  useEffect(() => {
+    document.documentElement.dataset.townAgentOpen = String(open);
+    window.dispatchEvent(new CustomEvent('propverse-agent-toggle', { detail: { open } }));
+  }, [open]);
+
+  useEffect(() => {
+    const closeFromTownLayout = () => setOpen(false);
+    window.addEventListener('propverse-agent-close', closeFromTownLayout);
+    return () => window.removeEventListener('propverse-agent-close', closeFromTownLayout);
+  }, []);
 
   // QA hook (dev, or ?townDebug in any build): window.__propverseAgent.
   useEffect(() => {
@@ -139,13 +171,10 @@ export default function AgentWidget() {
     setDraft('');
   };
 
-  // Desktop: dock left of the 380px unit card when it is open.
-  // Mobile: the card is a bottom sheet — step aside until it closes.
-  const right = desktop && cardOpen ? 412 : 16;
   if (!desktop && cardOpen) return null;
 
   return (
-    <div className="fixed bottom-4 z-[220] flex flex-col items-end gap-3 transition-[right] duration-300" style={{ right, fontFamily: FONTS.sans }}>
+    <div id="ask-town-agent-container" className="pointer-events-auto fixed bottom-4 left-12 z-[250] flex flex-col items-start gap-3 transition-all duration-300 md:bottom-6 md:left-[clamp(48px,6vw,72px)]" style={{ fontFamily: FONTS.sans }}>
       <AnimatePresence>
         {open && (
           <motion.section
@@ -155,15 +184,15 @@ export default function AgentWidget() {
             animate={{ opacity: 1, y: 0, scale: 1 }}
             exit={{ opacity: 0, y: 12, scale: 0.98 }}
             transition={{ type: 'spring', stiffness: 380, damping: 32 }}
-            className="flex h-[min(560px,calc(100dvh-7rem))] w-[min(380px,calc(100vw-2rem))] flex-col overflow-hidden rounded-2xl border shadow-2xl"
+            className="flex h-[min(560px,calc(100dvh-7rem))] w-[min(380px,calc(100vw-3rem))] flex-col overflow-hidden rounded-2xl border shadow-2xl"
             style={{ background: COLORS.paper, borderColor: COLORS.border }}
             onPointerDown={(e) => e.stopPropagation()}
             onKeyDown={(e) => e.stopPropagation()}
           >
             <header className="flex items-start justify-between gap-3 border-b px-4 pb-3 pt-4" style={{ borderColor: COLORS.border }}>
               <div>
-                <p className="uppercase" style={{ fontFamily: FONTS.mono, fontSize: '0.6rem', letterSpacing: '0.16em', color: COLORS.terracotta }}>PropVerse · Town 01</p>
-                <h2 className="mt-0.5" style={{ fontFamily: FONTS.serif, fontSize: '1.3rem', color: COLORS.ink }}>Town Agent</h2>
+                <p className="uppercase" style={{ fontFamily: FONTS.mono, fontSize: '0.6rem', letterSpacing: '0.16em', color: COLORS.terracotta }}>PropVerse Town</p>
+                <h2 className="mt-0.5" style={{ fontFamily: FONTS.serif, fontSize: '1.3rem', color: COLORS.ink }}>Ask Town Agent</h2>
                 <div className="mt-2 flex gap-1.5">
                   <Badge on={online} label="Online" offLabel="Offline" />
                   <Badge on={monitoring} label="Monitoring" offLabel="Monitoring off" />
@@ -195,7 +224,7 @@ export default function AgentWidget() {
               {messages.length === 0 && (
                 <div className="pt-2">
                   <p style={{ fontSize: '0.86rem', color: COLORS.inkSoft }}>
-                    Ask about plots, owners, utilities or anything in Town 01.
+                    Ask about houses, owners, streetlights, utilities, or anything in PropVerse Town.
                   </p>
                   <div className="mt-3 flex flex-wrap gap-2">
                     {SUGGESTIONS.map(({ label, prompt, icon: Icon }) => (
@@ -235,7 +264,7 @@ export default function AgentWidget() {
                 onKeyDown={(e) => {
                   if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); submit(); }
                 }}
-                placeholder="Ask the Town Agent…"
+                placeholder="Ask Town Agent..."
                 aria-label="Message the Town Agent"
                 className="max-h-28 min-h-[40px] flex-1 resize-none rounded-xl border px-3 py-2.5 outline-none focus:ring-2"
                 style={{ borderColor: COLORS.border, background: '#FFFFFF', color: COLORS.ink, fontSize: '0.86rem', fontFamily: FONTS.sans }}

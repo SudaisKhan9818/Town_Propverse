@@ -27,8 +27,8 @@ function wallRuns(): Run[] {
     { axis: 'x', from: LEFT_BOUND_X, to: -bvd, at: LEFT_BOUND_Z_NORTH },    // west block, north
     { axis: 'x', from: LEFT_BOUND_X, to: -bvd, at: LEFT_BOUND_Z_SOUTH },    // west block, south
     { axis: 'z', from: LEFT_BOUND_Z_NORTH, to: LEFT_BOUND_Z_SOUTH, at: LEFT_BOUND_X }, // west wall
-    { axis: 'z', from: -half, to: LEFT_BOUND_Z_NORTH, at: -bvd },           // north step
-    { axis: 'z', from: LEFT_BOUND_Z_SOUTH, to: half, at: -bvd },            // south step
+    { axis: 'z', from: -half, to: LEFT_BOUND_Z_NORTH, at: -bvd - WALL.thick / 2 }, // north step, outside boulevard curb
+    { axis: 'z', from: LEFT_BOUND_Z_SOUTH, to: half - 8, at: -bvd - WALL.thick / 2 }, // south step, clear of gate approach
   ];
 }
 

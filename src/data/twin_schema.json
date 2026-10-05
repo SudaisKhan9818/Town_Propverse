@@ -1,0 +1,1295 @@
+{
+  "lights": [
+    {
+      "id": "LIGHT-01",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 41,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-02",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-2",
+      "base_watt": 150,
+      "live": {
+        "temp": 40,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-03",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 37,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-04",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-4",
+      "base_watt": 150,
+      "live": {
+        "temp": 39,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-05",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-5",
+      "base_watt": 150,
+      "live": {
+        "temp": 41,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-06",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-6",
+      "base_watt": 150,
+      "live": {
+        "temp": 35,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-07",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 44,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-08",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 35,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-09",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 45,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-10",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 37,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-11",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-5",
+      "base_watt": 150,
+      "live": {
+        "temp": 41,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-12",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 45,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-13",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 37,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-14",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 40,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-15",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 35,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-16",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 35,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-17",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 37,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-18",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 45,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-19",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 42,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-20",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-5",
+      "base_watt": 150,
+      "live": {
+        "temp": 43,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-21",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-5",
+      "base_watt": 150,
+      "live": {
+        "temp": 44,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-22",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 42,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-23",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 38,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-24",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 37,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-25",
+      "type": "streetlight",
+      "grid_id": "GRID-A",
+      "street_id": "Road-5",
+      "base_watt": 150,
+      "live": {
+        "temp": 37,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-26",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 40,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-27",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 40,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-28",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 41,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-29",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 42,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-30",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 36,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-31",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 37,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-32",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 43,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-33",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 39,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-34",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-5",
+      "base_watt": 150,
+      "live": {
+        "temp": 37,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-35",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 41,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-36",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 39,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-37",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-5",
+      "base_watt": 150,
+      "live": {
+        "temp": 39,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-38",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 35,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-39",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 43,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-40",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 37,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-41",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 38,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-42",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-5",
+      "base_watt": 150,
+      "live": {
+        "temp": 39,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-43",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 35,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-44",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 41,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-45",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 44,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-46",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-5",
+      "base_watt": 150,
+      "live": {
+        "temp": 45,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-47",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 35,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-48",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-5",
+      "base_watt": 150,
+      "live": {
+        "temp": 42,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-49",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-5",
+      "base_watt": 150,
+      "live": {
+        "temp": 41,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-50",
+      "type": "streetlight",
+      "grid_id": "GRID-B",
+      "street_id": "Road-5",
+      "base_watt": 150,
+      "live": {
+        "temp": 40,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-51",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-5",
+      "base_watt": 150,
+      "live": {
+        "temp": 44,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-52",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 42,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-53",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 40,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-54",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 37,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-55",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 39,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-56",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-5",
+      "base_watt": 150,
+      "live": {
+        "temp": 39,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-57",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 36,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-58",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 35,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-59",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-5",
+      "base_watt": 150,
+      "live": {
+        "temp": 39,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-60",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 38,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-61",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-5",
+      "base_watt": 150,
+      "live": {
+        "temp": 44,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-62",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 43,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-63",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 39,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-64",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 40,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-65",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-5",
+      "base_watt": 150,
+      "live": {
+        "temp": 37,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-66",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-5",
+      "base_watt": 150,
+      "live": {
+        "temp": 44,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-67",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 36,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-68",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-5",
+      "base_watt": 150,
+      "live": {
+        "temp": 36,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-69",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 41,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-70",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-5",
+      "base_watt": 150,
+      "live": {
+        "temp": 43,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-71",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 40,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-72",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 35,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-73",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 41,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-74",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-3",
+      "base_watt": 150,
+      "live": {
+        "temp": 44,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    },
+    {
+      "id": "LIGHT-75",
+      "type": "streetlight",
+      "grid_id": "GRID-C",
+      "street_id": "Road-1",
+      "base_watt": 150,
+      "live": {
+        "temp": 40,
+        "watt": 150,
+        "status": "ON",
+        "risk": 0.1
+      },
+      "limits": {
+        "max_temp": 80,
+        "max_watt": 300
+      }
+    }
+  ],
+  "grid_station": {
+    "id": "GRID-MAIN",
+    "type": "grid_station",
+    "capacity_watt": 15000,
+    "live": {
+      "production": 0,
+      "total_consumption": 0,
+      "temp": 40,
+      "status": "OK"
+    },
+    "connected_grids": [
+      "GRID-A",
+      "GRID-B",
+      "GRID-C"
+    ]
+  }
+}

@@ -63,7 +63,7 @@ function buildCurbs(): Segment[] {
   return curbs;
 }
 
-export default function Roads() {
+export default function Roads({ twinMode = false }: { twinMode?: boolean }) {
   const asphalt = useCanvasTexture('asphalt', drawAsphalt, 512, { repeat: [1, 1] });
   const roadGeometry = useMemo(() => mergedRects(
     TOWN.streets.map((st) => st.orientation === 'NS'
@@ -78,7 +78,7 @@ export default function Roads() {
 
   return (
     <group>
-      <mesh geometry={roadGeometry} receiveShadow>
+      <mesh geometry={roadGeometry} castShadow={false} receiveShadow={!twinMode}>
         <meshStandardMaterial map={asphalt} {...SURFACE.asphalt} polygonOffset polygonOffsetFactor={-1} />
       </mesh>
       <Instances limit={markings.length} range={markings.length} frames={2}>
@@ -88,14 +88,14 @@ export default function Roads() {
           <Instance key={i} position={[m.x, ROAD_Y + 0.005, m.z]} rotation={[-Math.PI / 2, 0, 0]} scale={[m.w, m.d, 1]} />
         ))}
       </Instances>
-      <Instances limit={curbs.length} range={curbs.length} frames={2} receiveShadow>
+      <Instances limit={curbs.length} range={curbs.length} frames={2} castShadow={false} receiveShadow={!twinMode}>
         <boxGeometry args={[1, 1, 1]} />
         <meshStandardMaterial color={COLORS.curb} roughness={0.8} />
         {curbs.map((c, i) => (
           <Instance key={i} position={[c.x, CURB_H / 2, c.z]} scale={[c.w, CURB_H, c.d]} />
         ))}
       </Instances>
-      <Instances limit={median.length} range={median.length} frames={2} receiveShadow>
+      <Instances limit={median.length} range={median.length} frames={2} castShadow={false} receiveShadow={!twinMode}>
         <boxGeometry args={[1, 1, 1]} />
         <meshStandardMaterial color={COLORS.plinth} roughness={0.85} />
         {median.map((m, i) => (

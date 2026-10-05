@@ -1,0 +1,3173 @@
+{
+  "town": "PropVerse Town 01",
+  "unitsSource": "src/features/town/data/town-data.json",
+  "houses": [
+    {
+      "id": "P-1",
+      "type": "12 Marla",
+      "name": "House 1 · Street 2",
+      "houseType": "Double-storey bungalow",
+      "owner": "Ayesha Khan",
+      "ownerPhone": "+92 309 4842579",
+      "roadName": "Corner · Street 2 & Boulevard",
+      "streetId": "street-2",
+      "side": "north",
+      "status": "allotted",
+      "bedrooms": 5,
+      "facing": "South",
+      "possession": "Ready",
+      "address": "P-1, Street 2, PropVerse Town 01",
+      "imageUrl": "/images/town/house-12marla.jpg",
+      "price": {
+        "totalPkr": 24500000,
+        "paidPkr": 9800000
+      },
+      "timeline": [
+        {
+          "label": "Booked",
+          "date": "2026-01-27"
+        },
+        {
+          "label": "Allotted",
+          "date": "2026-03-06"
+        }
+      ],
+      "position": [
+        -12.55,
+        0,
+        -46.65
+      ],
+      "size": [
+        10.7,
+        7.5,
+        21.3
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-2",
+      "type": "7 Marla",
+      "name": "House 2 · Street 2",
+      "houseType": "Double-storey bungalow",
+      "owner": "PropVerse Sales Desk",
+      "ownerPhone": "+92 42 3571 0000",
+      "roadName": "Street 2 · 26 ft",
+      "streetId": "street-2",
+      "side": "north",
+      "status": "free",
+      "bedrooms": 4,
+      "facing": "South",
+      "possession": "Ready",
+      "address": "P-2, Street 2, PropVerse Town 01",
+      "imageUrl": "/images/town/house-7marla.jpg",
+      "price": {
+        "totalPkr": 16500000,
+        "paidPkr": 0
+      },
+      "timeline": [
+        {
+          "label": "Released for booking",
+          "date": "2026-06-01"
+        }
+      ],
+      "position": [
+        -23.95,
+        0,
+        -44.4
+      ],
+      "size": [
+        9.1,
+        7.5,
+        16.8
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-3",
+      "type": "5 Marla",
+      "name": "House 3 · Street 2",
+      "houseType": "Double-storey bungalow",
+      "owner": "Fatima Malik",
+      "ownerPhone": "+92 327 5137258",
+      "roadName": "Street 2 · 26 ft",
+      "streetId": "street-2",
+      "side": "north",
+      "status": "allotted",
+      "bedrooms": 3,
+      "facing": "South",
+      "possession": "Ready",
+      "address": "P-3, Street 2, PropVerse Town 01",
+      "imageUrl": "/images/town/house-5marla.jpg",
+      "price": {
+        "totalPkr": 11500000,
+        "paidPkr": 4600000
+      },
+      "timeline": [
+        {
+          "label": "Booked",
+          "date": "2025-05-05"
+        },
+        {
+          "label": "Allotted",
+          "date": "2025-07-23"
+        }
+      ],
+      "position": [
+        -33.8,
+        0,
+        -42.85
+      ],
+      "size": [
+        7.6,
+        7.5,
+        13.7
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-4",
+      "type": "5 Marla",
+      "name": "House 4 · Street 2",
+      "houseType": "Double-storey bungalow",
+      "owner": "Bilal Javed",
+      "ownerPhone": "+92 330 6197824",
+      "roadName": "Street 2 · 26 ft",
+      "streetId": "street-2",
+      "side": "north",
+      "status": "rented",
+      "bedrooms": 3,
+      "facing": "South",
+      "possession": "Ready",
+      "address": "P-4, Street 2, PropVerse Town 01",
+      "imageUrl": "/images/town/house-5marla.jpg",
+      "price": {
+        "totalPkr": 11500000,
+        "paidPkr": 11500000
+      },
+      "timeline": [
+        {
+          "label": "Booked",
+          "date": "2026-04-18"
+        },
+        {
+          "label": "Allotted",
+          "date": "2026-06-20"
+        },
+        {
+          "label": "Rented out",
+          "date": "2026-08-01"
+        }
+      ],
+      "position": [
+        -42.9,
+        0,
+        -42.85
+      ],
+      "size": [
+        7.6,
+        7.5,
+        13.7
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-5",
+      "type": "7 Marla",
+      "name": "House 5 · Street 2",
+      "houseType": "Double-storey bungalow",
+      "owner": "PropVerse Sales Desk",
+      "ownerPhone": "+92 42 3571 0000",
+      "roadName": "Street 2 · 26 ft",
+      "streetId": "street-2",
+      "side": "north",
+      "status": "free",
+      "bedrooms": 4,
+      "facing": "South",
+      "possession": "Q1 2027",
+      "address": "P-5, Street 2, PropVerse Town 01",
+      "imageUrl": "/images/town/house-7marla.jpg",
+      "price": {
+        "totalPkr": 16500000,
+        "paidPkr": 0
+      },
+      "timeline": [
+        {
+          "label": "Released for booking",
+          "date": "2026-06-01"
+        }
+      ],
+      "position": [
+        -52.75,
+        0,
+        -44.4
+      ],
+      "size": [
+        9.1,
+        7.5,
+        16.8
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-6",
+      "type": "5 Marla",
+      "name": "House 6 · Street 2",
+      "houseType": "Double-storey bungalow",
+      "owner": "Usman Mirza",
+      "ownerPhone": "+92 332 4243644",
+      "roadName": "Street 2 · 26 ft",
+      "streetId": "street-2",
+      "side": "north",
+      "status": "allotted",
+      "bedrooms": 3,
+      "facing": "South",
+      "possession": "Ready",
+      "address": "P-6, Street 2, PropVerse Town 01",
+      "imageUrl": "/images/town/house-5marla.jpg",
+      "price": {
+        "totalPkr": 11500000,
+        "paidPkr": 11500000
+      },
+      "timeline": [
+        {
+          "label": "Booked",
+          "date": "2025-03-17"
+        },
+        {
+          "label": "Allotted",
+          "date": "2025-05-11"
+        }
+      ],
+      "position": [
+        -62.6,
+        0,
+        -42.85
+      ],
+      "size": [
+        7.6,
+        7.5,
+        13.7
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-7",
+      "type": "7 Marla",
+      "name": "House 7 · Street 2",
+      "houseType": "Double-storey bungalow",
+      "owner": "Maryam Siddiqui",
+      "ownerPhone": "+92 315 1226498",
+      "roadName": "Corner · Street 2 & Boulevard",
+      "streetId": "street-2",
+      "side": "south",
+      "status": "allotted",
+      "bedrooms": 4,
+      "facing": "North",
+      "possession": "Ready",
+      "address": "P-7, Street 2, PropVerse Town 01",
+      "imageUrl": "/images/town/house-7marla.jpg",
+      "price": {
+        "totalPkr": 16500000,
+        "paidPkr": 11550000
+      },
+      "timeline": [
+        {
+          "label": "Booked",
+          "date": "2025-11-12"
+        },
+        {
+          "label": "Allotted",
+          "date": "2025-12-18"
+        }
+      ],
+      "position": [
+        -11.75,
+        0,
+        -15.6
+      ],
+      "size": [
+        9.1,
+        7.5,
+        16.8
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-8",
+      "type": "7 Marla",
+      "name": "House 8 · Street 2",
+      "houseType": "Double-storey bungalow",
+      "owner": "PropVerse Sales Desk",
+      "ownerPhone": "+92 42 3571 0000",
+      "roadName": "Street 2 · 26 ft",
+      "streetId": "street-2",
+      "side": "south",
+      "status": "free",
+      "bedrooms": 4,
+      "facing": "North",
+      "possession": "Q2 2027",
+      "address": "P-8, Street 2, PropVerse Town 01",
+      "imageUrl": "/images/town/house-7marla.jpg",
+      "price": {
+        "totalPkr": 16500000,
+        "paidPkr": 0
+      },
+      "timeline": [
+        {
+          "label": "Released for booking",
+          "date": "2026-06-01"
+        }
+      ],
+      "position": [
+        -22.35,
+        0,
+        -15.6
+      ],
+      "size": [
+        9.1,
+        7.5,
+        16.8
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-9",
+      "type": "5 Marla",
+      "name": "House 9 · Street 2",
+      "houseType": "Double-storey bungalow",
+      "owner": "Hira Rana",
+      "ownerPhone": "+92 301 3996711",
+      "roadName": "Street 2 · 26 ft",
+      "streetId": "street-2",
+      "side": "south",
+      "status": "rented",
+      "bedrooms": 3,
+      "facing": "North",
+      "possession": "Ready",
+      "address": "P-9, Street 2, PropVerse Town 01",
+      "imageUrl": "/images/town/house-5marla.jpg",
+      "price": {
+        "totalPkr": 11500000,
+        "paidPkr": 11500000
+      },
+      "timeline": [
+        {
+          "label": "Booked",
+          "date": "2026-01-13"
+        },
+        {
+          "label": "Allotted",
+          "date": "2026-03-22"
+        },
+        {
+          "label": "Rented out",
+          "date": "2026-05-01"
+        }
+      ],
+      "position": [
+        -32.2,
+        0,
+        -17.15
+      ],
+      "size": [
+        7.6,
+        7.5,
+        13.7
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-10",
+      "type": "5 Marla",
+      "name": "House 10 · Street 2",
+      "houseType": "Double-storey bungalow",
+      "owner": "Saad Sheikh",
+      "ownerPhone": "+92 308 3511130",
+      "roadName": "Street 2 · 26 ft",
+      "streetId": "street-2",
+      "side": "south",
+      "status": "allotted",
+      "bedrooms": 3,
+      "facing": "North",
+      "possession": "Ready",
+      "address": "P-10, Street 2, PropVerse Town 01",
+      "imageUrl": "/images/town/house-5marla.jpg",
+      "price": {
+        "totalPkr": 11500000,
+        "paidPkr": 6325000
+      },
+      "timeline": [
+        {
+          "label": "Booked",
+          "date": "2025-11-05"
+        },
+        {
+          "label": "Allotted",
+          "date": "2025-12-06"
+        }
+      ],
+      "position": [
+        -41.3,
+        0,
+        -17.15
+      ],
+      "size": [
+        7.6,
+        7.5,
+        13.7
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-11",
+      "type": "7 Marla",
+      "name": "House 11 · Street 2",
+      "houseType": "Double-storey bungalow",
+      "owner": "Amna Javed",
+      "ownerPhone": "+92 311 7155616",
+      "roadName": "Street 2 · 26 ft",
+      "streetId": "street-2",
+      "side": "south",
+      "status": "allotted",
+      "bedrooms": 4,
+      "facing": "North",
+      "possession": "Ready",
+      "address": "P-11, Street 2, PropVerse Town 01",
+      "imageUrl": "/images/town/house-7marla.jpg",
+      "price": {
+        "totalPkr": 16500000,
+        "paidPkr": 9075000
+      },
+      "timeline": [
+        {
+          "label": "Booked",
+          "date": "2025-03-18"
+        },
+        {
+          "label": "Allotted",
+          "date": "2025-05-27"
+        }
+      ],
+      "position": [
+        -51.15,
+        0,
+        -15.6
+      ],
+      "size": [
+        9.1,
+        7.5,
+        16.8
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-12",
+      "type": "7 Marla",
+      "name": "House 12 · Street 2",
+      "houseType": "Double-storey bungalow",
+      "owner": "PropVerse Sales Desk",
+      "ownerPhone": "+92 42 3571 0000",
+      "roadName": "Street 2 · 26 ft",
+      "streetId": "street-2",
+      "side": "south",
+      "status": "free",
+      "bedrooms": 4,
+      "facing": "North",
+      "possession": "Q1 2027",
+      "address": "P-12, Street 2, PropVerse Town 01",
+      "imageUrl": "/images/town/house-7marla.jpg",
+      "price": {
+        "totalPkr": 16500000,
+        "paidPkr": 0
+      },
+      "timeline": [
+        {
+          "label": "Released for booking",
+          "date": "2026-06-01"
+        }
+      ],
+      "position": [
+        -61.75,
+        0,
+        -15.6
+      ],
+      "size": [
+        9.1,
+        7.5,
+        16.8
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-13",
+      "type": "5 Marla",
+      "name": "House 13 · Street 2",
+      "houseType": "Double-storey bungalow",
+      "owner": "Sana Abbasi",
+      "ownerPhone": "+92 314 6026645",
+      "roadName": "Street 2 · 26 ft",
+      "streetId": "street-2",
+      "side": "south",
+      "status": "allotted",
+      "bedrooms": 3,
+      "facing": "North",
+      "possession": "Ready",
+      "address": "P-13, Street 2, PropVerse Town 01",
+      "imageUrl": "/images/town/house-5marla.jpg",
+      "price": {
+        "totalPkr": 11500000,
+        "paidPkr": 9775000
+      },
+      "timeline": [
+        {
+          "label": "Booked",
+          "date": "2025-11-22"
+        },
+        {
+          "label": "Allotted",
+          "date": "2025-12-28"
+        }
+      ],
+      "position": [
+        -71.6,
+        0,
+        -17.15
+      ],
+      "size": [
+        7.6,
+        7.5,
+        13.7
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-14",
+      "type": "7 Marla",
+      "name": "House 14 · Street 1",
+      "houseType": "Double-storey bungalow",
+      "owner": "Imran Abbasi",
+      "ownerPhone": "+92 301 3133301",
+      "roadName": "Corner · Street 1 & Boulevard",
+      "streetId": "street-1",
+      "side": "north",
+      "status": "rented",
+      "bedrooms": 4,
+      "facing": "South",
+      "possession": "Ready",
+      "address": "P-14, Street 1, PropVerse Town 01",
+      "imageUrl": "/images/town/house-7marla.jpg",
+      "price": {
+        "totalPkr": 16500000,
+        "paidPkr": 16500000
+      },
+      "timeline": [
+        {
+          "label": "Booked",
+          "date": "2025-08-24"
+        },
+        {
+          "label": "Allotted",
+          "date": "2025-10-04"
+        },
+        {
+          "label": "Rented out",
+          "date": "2026-02-01"
+        }
+      ],
+      "position": [
+        -11.75,
+        0,
+        15.6
+      ],
+      "size": [
+        9.1,
+        7.5,
+        16.8
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-15",
+      "type": "7 Marla",
+      "name": "House 15 · Street 1",
+      "houseType": "Double-storey bungalow",
+      "owner": "PropVerse Sales Desk",
+      "ownerPhone": "+92 42 3571 0000",
+      "roadName": "Street 1 · 26 ft",
+      "streetId": "street-1",
+      "side": "north",
+      "status": "free",
+      "bedrooms": 4,
+      "facing": "South",
+      "possession": "Ready",
+      "address": "P-15, Street 1, PropVerse Town 01",
+      "imageUrl": "/images/town/house-7marla.jpg",
+      "price": {
+        "totalPkr": 16500000,
+        "paidPkr": 0
+      },
+      "timeline": [
+        {
+          "label": "Released for booking",
+          "date": "2026-06-01"
+        }
+      ],
+      "position": [
+        -22.35,
+        0,
+        15.6
+      ],
+      "size": [
+        9.1,
+        7.5,
+        16.8
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-16",
+      "type": "5 Marla",
+      "name": "House 16 · Street 1",
+      "houseType": "Double-storey bungalow",
+      "owner": "Kashif Khan",
+      "ownerPhone": "+92 343 4660065",
+      "roadName": "Street 1 · 26 ft",
+      "streetId": "street-1",
+      "side": "north",
+      "status": "allotted",
+      "bedrooms": 3,
+      "facing": "South",
+      "possession": "Ready",
+      "address": "P-16, Street 1, PropVerse Town 01",
+      "imageUrl": "/images/town/house-5marla.jpg",
+      "price": {
+        "totalPkr": 11500000,
+        "paidPkr": 11500000
+      },
+      "timeline": [
+        {
+          "label": "Booked",
+          "date": "2026-04-17"
+        },
+        {
+          "label": "Allotted",
+          "date": "2026-06-15"
+        }
+      ],
+      "position": [
+        -32.2,
+        0,
+        17.15
+      ],
+      "size": [
+        7.6,
+        7.5,
+        13.7
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-17",
+      "type": "5 Marla",
+      "name": "House 17 · Street 1",
+      "houseType": "Double-storey bungalow",
+      "owner": "Mehwish Malik",
+      "ownerPhone": "+92 310 6905267",
+      "roadName": "Street 1 · 26 ft",
+      "streetId": "street-1",
+      "side": "north",
+      "status": "allotted",
+      "bedrooms": 3,
+      "facing": "South",
+      "possession": "Ready",
+      "address": "P-17, Street 1, PropVerse Town 01",
+      "imageUrl": "/images/town/house-5marla.jpg",
+      "price": {
+        "totalPkr": 11500000,
+        "paidPkr": 9775000
+      },
+      "timeline": [
+        {
+          "label": "Booked",
+          "date": "2025-05-14"
+        },
+        {
+          "label": "Allotted",
+          "date": "2025-07-21"
+        }
+      ],
+      "position": [
+        -41.3,
+        0,
+        17.15
+      ],
+      "size": [
+        7.6,
+        7.5,
+        13.7
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-18",
+      "type": "7 Marla",
+      "name": "House 18 · Street 1",
+      "houseType": "Double-storey bungalow",
+      "owner": "PropVerse Sales Desk",
+      "ownerPhone": "+92 42 3571 0000",
+      "roadName": "Street 1 · 26 ft",
+      "streetId": "street-1",
+      "side": "north",
+      "status": "free",
+      "bedrooms": 4,
+      "facing": "South",
+      "possession": "Q2 2027",
+      "address": "P-18, Street 1, PropVerse Town 01",
+      "imageUrl": "/images/town/house-7marla.jpg",
+      "price": {
+        "totalPkr": 16500000,
+        "paidPkr": 0
+      },
+      "timeline": [
+        {
+          "label": "Released for booking",
+          "date": "2026-06-01"
+        }
+      ],
+      "position": [
+        -51.15,
+        0,
+        15.6
+      ],
+      "size": [
+        9.1,
+        7.5,
+        16.8
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-19",
+      "type": "12 Marla",
+      "name": "House 19 · Street 1",
+      "houseType": "Double-storey bungalow",
+      "owner": "Rabia Sheikh",
+      "ownerPhone": "+92 336 5287215",
+      "roadName": "Street 1 · 26 ft",
+      "streetId": "street-1",
+      "side": "north",
+      "status": "rented",
+      "bedrooms": 5,
+      "facing": "South",
+      "possession": "Ready",
+      "address": "P-19, Street 1, PropVerse Town 01",
+      "imageUrl": "/images/town/house-12marla.jpg",
+      "price": {
+        "totalPkr": 24500000,
+        "paidPkr": 24500000
+      },
+      "timeline": [
+        {
+          "label": "Booked",
+          "date": "2025-08-19"
+        },
+        {
+          "label": "Allotted",
+          "date": "2025-10-18"
+        },
+        {
+          "label": "Rented out",
+          "date": "2026-06-01"
+        }
+      ],
+      "position": [
+        -62.55,
+        0,
+        13.35
+      ],
+      "size": [
+        10.7,
+        7.5,
+        21.3
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-20",
+      "type": "7 Marla",
+      "name": "House 20 · Street 1",
+      "houseType": "Double-storey bungalow",
+      "owner": "Adeel Rana",
+      "ownerPhone": "+92 340 8131293",
+      "roadName": "Corner · Street 1 & Boulevard",
+      "streetId": "street-1",
+      "side": "south",
+      "status": "allotted",
+      "bedrooms": 4,
+      "facing": "North",
+      "possession": "Ready",
+      "address": "P-20, Street 1, PropVerse Town 01",
+      "imageUrl": "/images/town/house-7marla.jpg",
+      "price": {
+        "totalPkr": 16500000,
+        "paidPkr": 16500000
+      },
+      "timeline": [
+        {
+          "label": "Booked",
+          "date": "2025-08-18"
+        },
+        {
+          "label": "Allotted",
+          "date": "2025-10-27"
+        }
+      ],
+      "position": [
+        -11.75,
+        0,
+        44.4
+      ],
+      "size": [
+        9.1,
+        7.5,
+        16.8
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-21",
+      "type": "7 Marla",
+      "name": "House 21 · Street 1",
+      "houseType": "Double-storey bungalow",
+      "owner": "Iqra Qureshi",
+      "ownerPhone": "+92 330 1140189",
+      "roadName": "Street 1 · 26 ft",
+      "streetId": "street-1",
+      "side": "south",
+      "status": "allotted",
+      "bedrooms": 4,
+      "facing": "North",
+      "possession": "Ready",
+      "address": "P-21, Street 1, PropVerse Town 01",
+      "imageUrl": "/images/town/house-7marla.jpg",
+      "price": {
+        "totalPkr": 16500000,
+        "paidPkr": 9075000
+      },
+      "timeline": [
+        {
+          "label": "Booked",
+          "date": "2026-01-02"
+        },
+        {
+          "label": "Allotted",
+          "date": "2026-03-10"
+        }
+      ],
+      "position": [
+        -22.35,
+        0,
+        44.4
+      ],
+      "size": [
+        9.1,
+        7.5,
+        16.8
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-22",
+      "type": "12 Marla",
+      "name": "House 22 · Street 1",
+      "houseType": "Double-storey bungalow",
+      "owner": "PropVerse Sales Desk",
+      "ownerPhone": "+92 42 3571 0000",
+      "roadName": "Street 1 · 26 ft",
+      "streetId": "street-1",
+      "side": "south",
+      "status": "free",
+      "bedrooms": 5,
+      "facing": "North",
+      "possession": "Q1 2027",
+      "address": "P-22, Street 1, PropVerse Town 01",
+      "imageUrl": "/images/town/house-12marla.jpg",
+      "price": {
+        "totalPkr": 24500000,
+        "paidPkr": 0
+      },
+      "timeline": [
+        {
+          "label": "Released for booking",
+          "date": "2026-06-01"
+        }
+      ],
+      "position": [
+        -33.75,
+        0,
+        46.65
+      ],
+      "size": [
+        10.7,
+        7.5,
+        21.3
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-23",
+      "type": "5 Marla",
+      "name": "House 23 · Street 1",
+      "houseType": "Double-storey bungalow",
+      "owner": "Farah Qureshi",
+      "ownerPhone": "+92 313 9081319",
+      "roadName": "Street 1 · 26 ft",
+      "streetId": "street-1",
+      "side": "south",
+      "status": "allotted",
+      "bedrooms": 3,
+      "facing": "North",
+      "possession": "Ready",
+      "address": "P-23, Street 1, PropVerse Town 01",
+      "imageUrl": "/images/town/house-5marla.jpg",
+      "price": {
+        "totalPkr": 11500000,
+        "paidPkr": 9775000
+      },
+      "timeline": [
+        {
+          "label": "Booked",
+          "date": "2026-04-20"
+        },
+        {
+          "label": "Allotted",
+          "date": "2026-06-24"
+        }
+      ],
+      "position": [
+        -44.4,
+        0,
+        42.85
+      ],
+      "size": [
+        7.6,
+        7.5,
+        13.7
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-24",
+      "type": "7 Marla",
+      "name": "House 24 · Street 1",
+      "houseType": "Double-storey bungalow",
+      "owner": "Waqas Khan",
+      "ownerPhone": "+92 307 6676529",
+      "roadName": "Street 1 · 26 ft",
+      "streetId": "street-1",
+      "side": "south",
+      "status": "rented",
+      "bedrooms": 4,
+      "facing": "North",
+      "possession": "Ready",
+      "address": "P-24, Street 1, PropVerse Town 01",
+      "imageUrl": "/images/town/house-7marla.jpg",
+      "price": {
+        "totalPkr": 16500000,
+        "paidPkr": 16500000
+      },
+      "timeline": [
+        {
+          "label": "Booked",
+          "date": "2025-08-18"
+        },
+        {
+          "label": "Allotted",
+          "date": "2025-10-10"
+        },
+        {
+          "label": "Rented out",
+          "date": "2026-06-01"
+        }
+      ],
+      "position": [
+        -54.25,
+        0,
+        44.4
+      ],
+      "size": [
+        9.1,
+        7.5,
+        16.8
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "P-25",
+      "type": "12 Marla",
+      "name": "House 25 · Street 1",
+      "houseType": "Double-storey bungalow",
+      "owner": "PropVerse Sales Desk",
+      "ownerPhone": "+92 42 3571 0000",
+      "roadName": "Street 1 · 26 ft",
+      "streetId": "street-1",
+      "side": "south",
+      "status": "free",
+      "bedrooms": 5,
+      "facing": "North",
+      "possession": "Ready",
+      "address": "P-25, Street 1, PropVerse Town 01",
+      "imageUrl": "/images/town/house-12marla.jpg",
+      "price": {
+        "totalPkr": 24500000,
+        "paidPkr": 0
+      },
+      "timeline": [
+        {
+          "label": "Released for booking",
+          "date": "2026-06-01"
+        }
+      ],
+      "position": [
+        -65.65,
+        0,
+        46.65
+      ],
+      "size": [
+        10.7,
+        7.5,
+        21.3
+      ],
+      "power": null,
+      "capacity": null
+    }
+  ],
+  "lights": [
+    {
+      "id": "LIGHT_001",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "edge",
+      "position": [
+        -5.85,
+        0,
+        -80
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 0,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_002",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "edge",
+      "position": [
+        5.85,
+        0,
+        -80
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -3.141593,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_003",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "edge",
+      "position": [
+        -5.85,
+        0,
+        -64
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 0,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_004",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "edge",
+      "position": [
+        5.85,
+        0,
+        -64
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -3.141593,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_005",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "edge",
+      "position": [
+        -5.85,
+        0,
+        -48
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 0,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_006",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "edge",
+      "position": [
+        5.85,
+        0,
+        -48
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -3.141593,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_007",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "edge",
+      "position": [
+        5.85,
+        0,
+        -32
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -3.141593,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_008",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "edge",
+      "position": [
+        -5.85,
+        0,
+        -16
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 0,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_009",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "edge",
+      "position": [
+        5.85,
+        0,
+        -16
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -3.141593,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_010",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "edge",
+      "position": [
+        -5.85,
+        0,
+        0
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 0,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_011",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "edge",
+      "position": [
+        -5.85,
+        0,
+        16
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 0,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_012",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "edge",
+      "position": [
+        5.85,
+        0,
+        16
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -3.141593,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_013",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "edge",
+      "position": [
+        -5.85,
+        0,
+        48
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 0,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_014",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "edge",
+      "position": [
+        5.85,
+        0,
+        48
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -3.141593,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_015",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "edge",
+      "position": [
+        -5.85,
+        0,
+        64
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 0,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_016",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "edge",
+      "position": [
+        5.85,
+        0,
+        64
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -3.141593,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_017",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "edge",
+      "position": [
+        -5.85,
+        0,
+        80
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 0,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_018",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "edge",
+      "position": [
+        5.85,
+        0,
+        80
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -3.141593,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_019",
+      "type": "street light pole",
+      "roadId": "street-2",
+      "roadName": "Two Way, street 2 ROAD",
+      "kind": "edge",
+      "position": [
+        -81.35,
+        0,
+        -33.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_020",
+      "type": "street light pole",
+      "roadId": "street-2",
+      "roadName": "Two Way, street 2 ROAD",
+      "kind": "edge",
+      "position": [
+        -81.35,
+        0,
+        -26.15
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_021",
+      "type": "street light pole",
+      "roadId": "street-2",
+      "roadName": "Two Way, street 2 ROAD",
+      "kind": "edge",
+      "position": [
+        -65.35,
+        0,
+        -33.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_022",
+      "type": "street light pole",
+      "roadId": "street-2",
+      "roadName": "Two Way, street 2 ROAD",
+      "kind": "edge",
+      "position": [
+        -65.35,
+        0,
+        -26.15
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_023",
+      "type": "street light pole",
+      "roadId": "street-2",
+      "roadName": "Two Way, street 2 ROAD",
+      "kind": "edge",
+      "position": [
+        -49.35,
+        0,
+        -33.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_024",
+      "type": "street light pole",
+      "roadId": "street-2",
+      "roadName": "Two Way, street 2 ROAD",
+      "kind": "edge",
+      "position": [
+        -49.35,
+        0,
+        -26.15
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_025",
+      "type": "street light pole",
+      "roadId": "street-2",
+      "roadName": "Two Way, street 2 ROAD",
+      "kind": "edge",
+      "position": [
+        -33.35,
+        0,
+        -33.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_026",
+      "type": "street light pole",
+      "roadId": "street-2",
+      "roadName": "Two Way, street 2 ROAD",
+      "kind": "edge",
+      "position": [
+        -33.35,
+        0,
+        -26.15
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_027",
+      "type": "street light pole",
+      "roadId": "street-2",
+      "roadName": "Two Way, street 2 ROAD",
+      "kind": "edge",
+      "position": [
+        -17.35,
+        0,
+        -33.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_028",
+      "type": "street light pole",
+      "roadId": "street-2",
+      "roadName": "Two Way, street 2 ROAD",
+      "kind": "edge",
+      "position": [
+        -17.35,
+        0,
+        -26.15
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_029",
+      "type": "street light pole",
+      "roadId": "street-1",
+      "roadName": "Two Way, street 1 ROAD",
+      "kind": "edge",
+      "position": [
+        -81.35,
+        0,
+        26.15
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_030",
+      "type": "street light pole",
+      "roadId": "street-1",
+      "roadName": "Two Way, street 1 ROAD",
+      "kind": "edge",
+      "position": [
+        -81.35,
+        0,
+        33.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_031",
+      "type": "street light pole",
+      "roadId": "street-1",
+      "roadName": "Two Way, street 1 ROAD",
+      "kind": "edge",
+      "position": [
+        -65.35,
+        0,
+        26.15
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_032",
+      "type": "street light pole",
+      "roadId": "street-1",
+      "roadName": "Two Way, street 1 ROAD",
+      "kind": "edge",
+      "position": [
+        -65.35,
+        0,
+        33.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_033",
+      "type": "street light pole",
+      "roadId": "street-1",
+      "roadName": "Two Way, street 1 ROAD",
+      "kind": "edge",
+      "position": [
+        -49.35,
+        0,
+        26.15
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_034",
+      "type": "street light pole",
+      "roadId": "street-1",
+      "roadName": "Two Way, street 1 ROAD",
+      "kind": "edge",
+      "position": [
+        -49.35,
+        0,
+        33.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_035",
+      "type": "street light pole",
+      "roadId": "street-1",
+      "roadName": "Two Way, street 1 ROAD",
+      "kind": "edge",
+      "position": [
+        -33.35,
+        0,
+        26.15
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_036",
+      "type": "street light pole",
+      "roadId": "street-1",
+      "roadName": "Two Way, street 1 ROAD",
+      "kind": "edge",
+      "position": [
+        -33.35,
+        0,
+        33.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_037",
+      "type": "street light pole",
+      "roadId": "street-1",
+      "roadName": "Two Way, street 1 ROAD",
+      "kind": "edge",
+      "position": [
+        -17.35,
+        0,
+        26.15
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_038",
+      "type": "street light pole",
+      "roadId": "street-1",
+      "roadName": "Two Way, street 1 ROAD",
+      "kind": "edge",
+      "position": [
+        -17.35,
+        0,
+        33.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_039",
+      "type": "street light pole",
+      "roadId": "civic-road-1",
+      "roadName": "Civic Road",
+      "kind": "edge",
+      "position": [
+        16,
+        0,
+        -43.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_040",
+      "type": "street light pole",
+      "roadId": "civic-road-1",
+      "roadName": "Civic Road",
+      "kind": "edge",
+      "position": [
+        16,
+        0,
+        -36.15
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_041",
+      "type": "street light pole",
+      "roadId": "civic-road-1",
+      "roadName": "Civic Road",
+      "kind": "edge",
+      "position": [
+        32,
+        0,
+        -43.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_042",
+      "type": "street light pole",
+      "roadId": "civic-road-1",
+      "roadName": "Civic Road",
+      "kind": "edge",
+      "position": [
+        32,
+        0,
+        -36.15
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_043",
+      "type": "street light pole",
+      "roadId": "civic-road-1",
+      "roadName": "Civic Road",
+      "kind": "edge",
+      "position": [
+        48,
+        0,
+        -43.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_044",
+      "type": "street light pole",
+      "roadId": "civic-road-1",
+      "roadName": "Civic Road",
+      "kind": "edge",
+      "position": [
+        48,
+        0,
+        -36.15
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_045",
+      "type": "street light pole",
+      "roadId": "civic-road-1",
+      "roadName": "Civic Road",
+      "kind": "edge",
+      "position": [
+        64,
+        0,
+        -43.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_046",
+      "type": "street light pole",
+      "roadId": "civic-road-1",
+      "roadName": "Civic Road",
+      "kind": "edge",
+      "position": [
+        64,
+        0,
+        -36.15
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_047",
+      "type": "street light pole",
+      "roadId": "civic-road-1",
+      "roadName": "Civic Road",
+      "kind": "edge",
+      "position": [
+        80,
+        0,
+        -43.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_048",
+      "type": "street light pole",
+      "roadId": "civic-road-1",
+      "roadName": "Civic Road",
+      "kind": "edge",
+      "position": [
+        80,
+        0,
+        -36.15
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_049",
+      "type": "street light pole",
+      "roadId": "civic-road-2",
+      "roadName": "Civic Road",
+      "kind": "edge",
+      "position": [
+        16,
+        0,
+        26.15
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_050",
+      "type": "street light pole",
+      "roadId": "civic-road-2",
+      "roadName": "Civic Road",
+      "kind": "edge",
+      "position": [
+        16,
+        0,
+        33.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_051",
+      "type": "street light pole",
+      "roadId": "civic-road-2",
+      "roadName": "Civic Road",
+      "kind": "edge",
+      "position": [
+        32,
+        0,
+        33.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_052",
+      "type": "street light pole",
+      "roadId": "civic-road-2",
+      "roadName": "Civic Road",
+      "kind": "edge",
+      "position": [
+        48,
+        0,
+        33.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_053",
+      "type": "street light pole",
+      "roadId": "civic-road-2",
+      "roadName": "Civic Road",
+      "kind": "edge",
+      "position": [
+        64,
+        0,
+        33.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_054",
+      "type": "street light pole",
+      "roadId": "civic-road-2",
+      "roadName": "Civic Road",
+      "kind": "edge",
+      "position": [
+        80,
+        0,
+        26.15
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_055",
+      "type": "street light pole",
+      "roadId": "civic-road-2",
+      "roadName": "Civic Road",
+      "kind": "edge",
+      "position": [
+        80,
+        0,
+        33.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_056",
+      "type": "street light pole",
+      "roadId": "school-hospital-road",
+      "roadName": "School Hospital Connector",
+      "kind": "edge",
+      "position": [
+        16,
+        0,
+        -5.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_057",
+      "type": "street light pole",
+      "roadId": "school-hospital-road",
+      "roadName": "School Hospital Connector",
+      "kind": "edge",
+      "position": [
+        16,
+        0,
+        -0.05
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_058",
+      "type": "street light pole",
+      "roadId": "school-hospital-road",
+      "roadName": "School Hospital Connector",
+      "kind": "edge",
+      "position": [
+        32,
+        0,
+        -5.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_059",
+      "type": "street light pole",
+      "roadId": "school-hospital-road",
+      "roadName": "School Hospital Connector",
+      "kind": "edge",
+      "position": [
+        32,
+        0,
+        -0.05
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_060",
+      "type": "street light pole",
+      "roadId": "school-hospital-road",
+      "roadName": "School Hospital Connector",
+      "kind": "edge",
+      "position": [
+        48,
+        0,
+        -5.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_061",
+      "type": "street light pole",
+      "roadId": "school-hospital-road",
+      "roadName": "School Hospital Connector",
+      "kind": "edge",
+      "position": [
+        48,
+        0,
+        -0.05
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_062",
+      "type": "street light pole",
+      "roadId": "school-hospital-road",
+      "roadName": "School Hospital Connector",
+      "kind": "edge",
+      "position": [
+        64,
+        0,
+        -5.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_063",
+      "type": "street light pole",
+      "roadId": "school-hospital-road",
+      "roadName": "School Hospital Connector",
+      "kind": "edge",
+      "position": [
+        64,
+        0,
+        -0.05
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_064",
+      "type": "street light pole",
+      "roadId": "school-hospital-road",
+      "roadName": "School Hospital Connector",
+      "kind": "edge",
+      "position": [
+        80,
+        0,
+        -5.85
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": -1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_065",
+      "type": "street light pole",
+      "roadId": "school-hospital-road",
+      "roadName": "School Hospital Connector",
+      "kind": "edge",
+      "position": [
+        80,
+        0,
+        -0.05
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 1.570796,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_066",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "median",
+      "position": [
+        0,
+        0,
+        -82
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 0,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_067",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "median",
+      "position": [
+        0,
+        0,
+        -66
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 0,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_068",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "median",
+      "position": [
+        0,
+        0,
+        -50
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 0,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_069",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "median",
+      "position": [
+        0,
+        0,
+        -24
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 0,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_070",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "median",
+      "position": [
+        0,
+        0,
+        -8
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 0,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_071",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "median",
+      "position": [
+        0,
+        0,
+        5.05
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 0,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_072",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "median",
+      "position": [
+        0,
+        0,
+        21.05
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 0,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_073",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "median",
+      "position": [
+        0,
+        0,
+        42
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 0,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_074",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "median",
+      "position": [
+        0,
+        0,
+        58
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 0,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "LIGHT_075",
+      "type": "street light pole",
+      "roadId": "boulevard",
+      "roadName": "Main Two Way Road",
+      "kind": "median",
+      "position": [
+        0,
+        0,
+        74
+      ],
+      "size": [
+        0.52,
+        6.4,
+        0.52
+      ],
+      "rotationY": 0,
+      "power": null,
+      "capacity": null
+    }
+  ],
+  "roads": [
+    {
+      "id": "boulevard",
+      "type": "road",
+      "roadName": "Main Two Way Road",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "size": [
+        12,
+        0,
+        180
+      ],
+      "width": 12,
+      "length": 180,
+      "orientation": "NS",
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "street-2",
+      "type": "road",
+      "roadName": "Two Way, street 2 ROAD",
+      "position": [
+        -49.35,
+        0,
+        -30
+      ],
+      "size": [
+        86.7,
+        0,
+        8
+      ],
+      "width": 8,
+      "length": 86.7,
+      "orientation": "EW",
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "street-1",
+      "type": "road",
+      "roadName": "Two Way, street 1 ROAD",
+      "position": [
+        -49.35,
+        0,
+        30
+      ],
+      "size": [
+        86.7,
+        0,
+        8
+      ],
+      "width": 8,
+      "length": 86.7,
+      "orientation": "EW",
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "civic-road-1",
+      "type": "road",
+      "roadName": "Civic Road",
+      "position": [
+        48,
+        0,
+        -40
+      ],
+      "size": [
+        84,
+        0,
+        8
+      ],
+      "width": 8,
+      "length": 84,
+      "orientation": "EW",
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "civic-road-2",
+      "type": "road",
+      "roadName": "Civic Road",
+      "position": [
+        48,
+        0,
+        30
+      ],
+      "size": [
+        84,
+        0,
+        8
+      ],
+      "width": 8,
+      "length": 84,
+      "orientation": "EW",
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "school-hospital-road",
+      "type": "road",
+      "roadName": "School Hospital Connector",
+      "position": [
+        48,
+        0,
+        -2.95
+      ],
+      "size": [
+        84,
+        0,
+        6.1
+      ],
+      "width": 6.1,
+      "length": 84,
+      "orientation": "EW",
+      "power": null,
+      "capacity": null
+    }
+  ],
+  "markets": [
+    {
+      "id": "market-1",
+      "type": "market",
+      "sourceKind": "market",
+      "name": "Community Market North",
+      "department": "Commerce & Estates",
+      "incharge": "Sheikh Naveed",
+      "inchargePhone": "+92 42 3573 9880",
+      "roadName": "Two Way, street 2 ROAD",
+      "timings": "9:00 AM – 10:00 PM",
+      "description": "Everyday retail, bakery and fresh produce around an open courtyard.",
+      "address": "Residential Block, PropVerse Town 01",
+      "imageUrl": "/images/town/market.jpg",
+      "position": [
+        -78.9,
+        0,
+        -46
+      ],
+      "size": [
+        22,
+        6.5,
+        20
+      ],
+      "layoutSize": [
+        22,
+        6.5,
+        20
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "market-3",
+      "type": "market",
+      "sourceKind": "market",
+      "name": "Community Market South",
+      "department": "Commerce & Estates",
+      "incharge": "Mian Shahid",
+      "inchargePhone": "+92 42 3513 6106",
+      "roadName": "Two Way, street 1 ROAD",
+      "timings": "9:00 AM – 10:00 PM",
+      "description": "Everyday retail, bakery and fresh produce around an open courtyard.",
+      "address": "Residential Block, PropVerse Town 01",
+      "imageUrl": "/images/town/market.jpg",
+      "position": [
+        -80.4,
+        0,
+        14
+      ],
+      "size": [
+        22,
+        6.5,
+        20
+      ],
+      "layoutSize": [
+        22,
+        6.5,
+        20
+      ],
+      "power": null,
+      "capacity": null
+    }
+  ],
+  "masjids": [
+    {
+      "id": "masjid-2",
+      "type": "masjid",
+      "sourceKind": "masjid",
+      "name": "Jamia Masjid North",
+      "department": "Religious Affairs",
+      "incharge": "Maulana Abdul Rauf",
+      "inchargePhone": "+92 42 3533 7366",
+      "roadName": "Two Way, street 2 ROAD",
+      "timings": "Five daily prayers · Jumu’ah 1:30 PM",
+      "description": "Neighbourhood masjid with ablution court and separate prayer hall for women.",
+      "address": "Residential Block, PropVerse Town 01",
+      "imageUrl": "/images/town/masjid.jpg",
+      "position": [
+        -83.9,
+        0,
+        -17
+      ],
+      "size": [
+        14,
+        8.5,
+        14
+      ],
+      "layoutSize": [
+        14,
+        8.5,
+        14
+      ],
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "masjid-4",
+      "type": "masjid",
+      "sourceKind": "masjid",
+      "name": "Jamia Masjid South",
+      "department": "Religious Affairs",
+      "incharge": "Qari Muhammad Idrees",
+      "inchargePhone": "+92 42 3512 2674",
+      "roadName": "Two Way, street 1 ROAD",
+      "timings": "Five daily prayers · Jumu’ah 1:30 PM",
+      "description": "Neighbourhood masjid with ablution court and separate prayer hall for women.",
+      "address": "Residential Block, PropVerse Town 01",
+      "imageUrl": "/images/town/masjid.jpg",
+      "position": [
+        -79.5,
+        0,
+        43
+      ],
+      "size": [
+        14,
+        8.5,
+        14
+      ],
+      "layoutSize": [
+        14,
+        8.5,
+        14
+      ],
+      "power": null,
+      "capacity": null
+    }
+  ],
+  "schools": [
+    {
+      "id": "civic-school",
+      "type": "school",
+      "sourceKind": "school",
+      "name": "PropVerse Grammar School",
+      "department": "Education Department",
+      "incharge": "Mrs. Nadia Farooq",
+      "inchargePhone": "+92 42 3582 3953",
+      "roadName": "School Hospital Connector",
+      "timings": "7:45 AM – 2:30 PM",
+      "description": "Primary to O-Level campus with science labs, library and sports ground.",
+      "address": "Civic Zone, PropVerse Town 01",
+      "imageUrl": "/images/town/school.jpg",
+      "position": [
+        48,
+        0,
+        -20
+      ],
+      "size": [
+        72,
+        8,
+        28
+      ],
+      "layoutSize": [
+        72,
+        8,
+        28
+      ],
+      "power": null,
+      "capacity": null
+    }
+  ],
+  "hospitals": [
+    {
+      "id": "civic-hospital",
+      "type": "hospital",
+      "sourceKind": "hospital",
+      "name": "Town Hospital",
+      "department": "Health Services",
+      "incharge": "Dr. Saima Rehman",
+      "inchargePhone": "+92 42 3552 1373",
+      "roadName": "School Hospital Connector",
+      "timings": "24 hours · OPD 8 AM – 8 PM",
+      "description": "40-bed general hospital with emergency, maternity and diagnostics.",
+      "address": "Civic Zone, PropVerse Town 01",
+      "imageUrl": "/images/town/hospital.jpg",
+      "position": [
+        48,
+        0,
+        13.1
+      ],
+      "size": [
+        40,
+        12,
+        26
+      ],
+      "layoutSize": [
+        40,
+        12,
+        26
+      ],
+      "power": null,
+      "capacity": "40 beds"
+    }
+  ],
+  "parks": [
+    {
+      "id": "civic-park",
+      "type": "park",
+      "sourceKind": "park",
+      "name": "Central Park",
+      "department": "Parks & Horticulture",
+      "incharge": "Ms. Rubina Tariq",
+      "inchargePhone": "+92 42 3573 5646",
+      "roadName": "Civic Road",
+      "timings": "6:00 AM – 10:00 PM",
+      "description": "Tree-lined lawn with jogging loop and a children’s playground.",
+      "address": "Civic Zone, PropVerse Town 01",
+      "imageUrl": "/images/town/park.jpg",
+      "position": [
+        48,
+        0,
+        -67
+      ],
+      "size": [
+        84,
+        1,
+        46
+      ],
+      "layoutSize": [
+        84,
+        0.5,
+        10.5
+      ],
+      "power": null,
+      "capacity": null
+    }
+  ],
+  "gridStations": [
+    {
+      "id": "civic-wapda",
+      "type": "grid station",
+      "sourceKind": "wapda",
+      "name": "WAPDA Office",
+      "department": "LESCO · Sub-division",
+      "incharge": "Engr. Kamran Ali",
+      "inchargePhone": "+92 42 3588 9333",
+      "roadName": "Civic Road",
+      "timings": "9:00 AM – 5:00 PM",
+      "description": "Electricity billing, new connections and complaint cell.",
+      "address": "Civic Zone, PropVerse Town 01",
+      "imageUrl": "/images/town/wapda.jpg",
+      "position": [
+        75.75,
+        0,
+        62.25
+      ],
+      "size": [
+        27.5,
+        19,
+        54.5
+      ],
+      "layoutSize": [
+        27.5,
+        19,
+        54.5
+      ],
+      "power": null,
+      "capacity": null
+    }
+  ],
+  "policeStations": [
+    {
+      "id": "civic-police",
+      "type": "police station",
+      "sourceKind": "police",
+      "name": "Police Station",
+      "department": "Punjab Police · Town Division",
+      "incharge": "Insp. Asad Mehmood",
+      "inchargePhone": "+92 42 3595 5086",
+      "roadName": "Civic Road",
+      "timings": "24 hours",
+      "description": "Community policing, FIR desk and emergency response for Town 01.",
+      "address": "Civic Zone, PropVerse Town 01",
+      "imageUrl": "/images/town/police.jpg",
+      "position": [
+        21,
+        0,
+        62.25
+      ],
+      "size": [
+        22,
+        9,
+        54.5
+      ],
+      "layoutSize": [
+        22,
+        9,
+        54.5
+      ],
+      "power": null,
+      "capacity": null
+    }
+  ],
+  "fireStations": [
+    {
+      "id": "civic-fire",
+      "type": "fire station",
+      "sourceKind": "fire",
+      "name": "Fire & Rescue Station",
+      "department": "Rescue 1122",
+      "incharge": "Stn. Officer Junaid",
+      "inchargePhone": "+92 42 3512 6779",
+      "roadName": "Civic Road",
+      "timings": "24 hours",
+      "description": "Two-bay fire station with rescue ambulance on standby.",
+      "address": "Civic Zone, PropVerse Town 01",
+      "imageUrl": "/images/town/fire.jpg",
+      "position": [
+        47,
+        0,
+        62.25
+      ],
+      "size": [
+        28,
+        16,
+        54.5
+      ],
+      "layoutSize": [
+        28,
+        16,
+        54.5
+      ],
+      "power": null,
+      "capacity": "2 bays"
+    }
+  ],
+  "boundaryWalls": [
+    {
+      "id": "WALL-01",
+      "type": "boundary wall",
+      "axis": "x",
+      "position": [
+        48,
+        1.2,
+        -90
+      ],
+      "size": [
+        84,
+        2.4,
+        0.5
+      ],
+      "segmentCount": 14,
+      "owner": null,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "WALL-02",
+      "type": "boundary wall",
+      "axis": "z",
+      "position": [
+        90,
+        1.2,
+        0
+      ],
+      "size": [
+        0.5,
+        2.4,
+        180
+      ],
+      "segmentCount": 30,
+      "owner": null,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "WALL-03",
+      "type": "boundary wall",
+      "axis": "x",
+      "position": [
+        48.5,
+        1.2,
+        90
+      ],
+      "size": [
+        83,
+        2.4,
+        0.5
+      ],
+      "segmentCount": 14,
+      "owner": null,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "WALL-04",
+      "type": "boundary wall",
+      "axis": "x",
+      "position": [
+        -49.5,
+        1.2,
+        -62
+      ],
+      "size": [
+        87,
+        2.4,
+        0.5
+      ],
+      "segmentCount": 15,
+      "owner": null,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "WALL-05",
+      "type": "boundary wall",
+      "axis": "x",
+      "position": [
+        -49.5,
+        1.2,
+        62
+      ],
+      "size": [
+        87,
+        2.4,
+        0.5
+      ],
+      "segmentCount": 15,
+      "owner": null,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "WALL-06",
+      "type": "boundary wall",
+      "axis": "z",
+      "position": [
+        -93,
+        1.2,
+        0
+      ],
+      "size": [
+        0.5,
+        2.4,
+        124
+      ],
+      "segmentCount": 21,
+      "owner": null,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "WALL-07",
+      "type": "boundary wall",
+      "axis": "z",
+      "position": [
+        -6,
+        1.2,
+        -76
+      ],
+      "size": [
+        0.5,
+        2.4,
+        28
+      ],
+      "segmentCount": 5,
+      "owner": null,
+      "power": null,
+      "capacity": null
+    },
+    {
+      "id": "WALL-08",
+      "type": "boundary wall",
+      "axis": "z",
+      "position": [
+        -6,
+        1.2,
+        76
+      ],
+      "size": [
+        0.5,
+        2.4,
+        28
+      ],
+      "segmentCount": 5,
+      "owner": null,
+      "power": null,
+      "capacity": null
+    }
+  ]
+}

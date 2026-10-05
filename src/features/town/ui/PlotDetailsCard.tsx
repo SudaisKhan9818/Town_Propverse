@@ -315,7 +315,7 @@ export default function PlotDetailsCard() {
           aria-label={`${unit.name ?? unit.id} details`}
           className={mobile
             ? 'fixed inset-x-0 bottom-0 z-[210] max-h-[78vh] overflow-y-auto rounded-t-2xl border-t shadow-2xl'
-            : 'fixed right-4 top-4 z-[210] max-h-[calc(100dvh-2rem)] w-[380px] overflow-y-auto rounded-2xl border shadow-2xl'}
+            : 'fixed right-0 top-0 z-[210] h-full max-h-none w-[min(420px,100vw)] overflow-y-auto rounded-l-2xl border-l border-y-0 border-r-0 shadow-2xl'}
           style={panelStyle}
           initial={mobile ? { y: '100%' } : { x: 420, opacity: 0.6 }}
           animate={mobile ? { y: 0 } : { x: 0, opacity: 1 }}

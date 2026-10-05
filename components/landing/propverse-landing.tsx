@@ -4,7 +4,6 @@ import { useState } from 'react'
 import { ArrowRight, MoveUpRight } from 'lucide-react'
 import { Hero, Navbar } from '@/src/features/landing'
 import { TownCanvas } from '@/src/features/town'
-import { AgentWidget } from '@/src/features/rag'
 
 function Logo() {
   return <a href="#top" className="wordmark" aria-label="PropVerse home">PropVerse</a>
@@ -72,7 +71,6 @@ export default function PropVerseLanding() {
     <Footer />
     
     {/* Always rendered to keep WebGL context, just visually hidden when not active */}
-    <TownCanvas visible={show3D} onClose={() => setShow3D(false)} />
-    {show3D && <AgentWidget />}
+      <TownCanvas visible={show3D} twinMode onClose={() => setShow3D(false)} />
   </main>
 }

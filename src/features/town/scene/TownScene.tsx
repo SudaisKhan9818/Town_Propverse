@@ -11,13 +11,14 @@
 // ═══════════════════════════════════════════════════════════════════
 
 import { useCallback, useEffect } from 'react';
-import { Bvh } from '@react-three/drei';
+import { Bvh, Html } from '@react-three/drei';
 import type { ThreeEvent } from '@react-three/fiber';
 import type { UnitMeshUserData } from '@/src/shared/types/town';
 import { getUnitData } from '../data/units';
 import { useTownStore } from '../store/town-store';
 import Ground from '../components/Ground';
 import Roads from '../components/Roads';
+import StreetLights from '../components/StreetLights';
 import PlotPads from '../components/PlotPads';
 import Lawns from '../components/Lawns';
 import Trees from '../components/Trees';
@@ -27,7 +28,6 @@ import GlbUnits, { preloadUnits } from '../components/GlbUnits';
 import HouseInstances from '../components/HouseInstances';
 import HitProxy from '../components/HitProxy';
 import SelectionMarker from '../components/SelectionMarker';
-import StreetLights from '../components/StreetLights';
 import GovComplex from '../components/GovComplex';
 import { CIVIC_PLACEMENTS, HOUSE_PLACEMENTS } from '../data/unit-placement';
 import OrbitProfile from '../controls/OrbitProfile';
@@ -37,10 +37,22 @@ import Atmosphere from './Atmosphere';
 import PerformanceSystem from './PerformanceSystem';
 import { RevealController, RevealGroup } from './Reveal';
 import DebugBridge from './DebugBridge';
+import { getTownData } from '../data/layout-engine';
 
 // Civic models start downloading as soon as the scene module loads;
 // houses once the ground is on screen (see effect below).
 preloadUnits(CIVIC_PLACEMENTS);
+const TOWN = getTownData();
+
+const ROAD_LABELS = ['Main Road', 'Street 2', 'Street 1', 'Civic Road North', 'Civic Road South', 'School Hospital Road'];
+const LAYOUT_ROAD_NAMES: Record<string, string> = {
+  boulevard: 'Main Road',
+  'street-2': 'St-2',
+  'street-1': 'St-1',
+  'civic-road-1': 'Civic Road North',
+  'civic-road-2': 'Civic Road South',
+  'school-hospital-road': 'School Hospital Road',
+};
 
 export default function TownScene() {
   const walking = useTownStore((s) => s.cameraMode === 'walk');
@@ -82,6 +94,20 @@ export default function TownScene() {
         </Bvh>
         <Roads />
         <StreetLights />
+        {TOWN.streets.map((road, index) => (
+          <Html key={road.id} position={[road.position.x, 3.5, road.position.z]} center distanceFactor={12}>
+            <div className="rounded border border-white/20 bg-black/60 px-2 py-1 text-[11px] font-mono text-cyan-200 backdrop-blur" style={{ whiteSpace: 'nowrap' }}>
+              ROAD-{index + 1} · {ROAD_LABELS[index]}
+            </div>
+          </Html>
+        ))}
+        {TOWN.streets.filter((road) => road.id === 'street-1' || road.id === 'street-2').map((road) => (
+          <Html key={`label-${road.id}`} position={[road.position.x, 2.5, road.position.z]} center distanceFactor={12}>
+            <div className="rounded-full border border-white/15 bg-black/50 px-1.5 py-0.5 text-[9px] font-mono text-cyan-100 backdrop-blur" style={{ whiteSpace: 'nowrap' }}>
+              {LAYOUT_ROAD_NAMES[road.id]}
+            </div>
+          </Html>
+        ))}
         <PlotPads />
         <Lawns />
         <BoundaryWall />

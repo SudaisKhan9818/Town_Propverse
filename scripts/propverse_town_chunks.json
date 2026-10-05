@@ -1,0 +1,2487 @@
+[
+  {
+    "id": "P-1",
+    "content": "[ID: P-1] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: OCCUPIED] [NOT_FOR_RENT] PropVerse Town, Block P, 12 Marla Double-storey bungalow, 5 bedrooms, price 245 Lakh, located on Corner · Street 2 & Boulevard. The home faces South, possession is Ready, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. Its current occupancy status is allotted.",
+    "metadata": {
+      "id": "P-1",
+      "town": "PropVerse Town",
+      "focusTarget": "P-1",
+      "position": [
+        -12.55,
+        0,
+        -46.65
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "occupied",
+      "marla": 12,
+      "bedrooms": 5,
+      "price_lakh": 245,
+      "roadName": "Corner · Street 2 & Boulevard",
+      "streetId": "street-2",
+      "facing": "South",
+      "possession": "Ready"
+    }
+  },
+  {
+    "id": "P-2",
+    "content": "[ID: P-2] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: FREE] [NOT_FOR_RENT] PropVerse Town, Block P, 7 Marla Double-storey bungalow, 4 bedrooms, price 165 Lakh, located on Street 2 · 26 ft. The home faces South, possession is Ready, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. It is currently available for booking.",
+    "metadata": {
+      "id": "P-2",
+      "town": "PropVerse Town",
+      "focusTarget": "P-2",
+      "position": [
+        -23.95,
+        0,
+        -44.4
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "free",
+      "marla": 7,
+      "bedrooms": 4,
+      "price_lakh": 165,
+      "roadName": "Street 2 · 26 ft",
+      "streetId": "street-2",
+      "facing": "South",
+      "possession": "Ready"
+    }
+  },
+  {
+    "id": "P-3",
+    "content": "[ID: P-3] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: OCCUPIED] [NOT_FOR_RENT] PropVerse Town, Block P, 5 Marla Double-storey bungalow, 3 bedrooms, price 115 Lakh, located on Street 2 · 26 ft. The home faces South, possession is Ready, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. Its current occupancy status is allotted.",
+    "metadata": {
+      "id": "P-3",
+      "town": "PropVerse Town",
+      "focusTarget": "P-3",
+      "position": [
+        -33.8,
+        0,
+        -42.85
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "occupied",
+      "marla": 5,
+      "bedrooms": 3,
+      "price_lakh": 115,
+      "roadName": "Street 2 · 26 ft",
+      "streetId": "street-2",
+      "facing": "South",
+      "possession": "Ready"
+    }
+  },
+  {
+    "id": "P-4",
+    "content": "[ID: P-4] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: OCCUPIED] [NOT_FOR_RENT] PropVerse Town, Block P, 5 Marla Double-storey bungalow, 3 bedrooms, price 115 Lakh, located on Street 2 · 26 ft. The home faces South, possession is Ready, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. Its current occupancy status is rented.",
+    "metadata": {
+      "id": "P-4",
+      "town": "PropVerse Town",
+      "focusTarget": "P-4",
+      "position": [
+        -42.9,
+        0,
+        -42.85
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "occupied",
+      "marla": 5,
+      "bedrooms": 3,
+      "price_lakh": 115,
+      "roadName": "Street 2 · 26 ft",
+      "streetId": "street-2",
+      "facing": "South",
+      "possession": "Ready"
+    }
+  },
+  {
+    "id": "P-5",
+    "content": "[ID: P-5] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: FREE] [NOT_FOR_RENT] PropVerse Town, Block P, 7 Marla Double-storey bungalow, 4 bedrooms, price 165 Lakh, located on Street 2 · 26 ft. The home faces South, possession is Q1 2027, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. It is currently available for booking.",
+    "metadata": {
+      "id": "P-5",
+      "town": "PropVerse Town",
+      "focusTarget": "P-5",
+      "position": [
+        -52.75,
+        0,
+        -44.4
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "free",
+      "marla": 7,
+      "bedrooms": 4,
+      "price_lakh": 165,
+      "roadName": "Street 2 · 26 ft",
+      "streetId": "street-2",
+      "facing": "South",
+      "possession": "Q1 2027"
+    }
+  },
+  {
+    "id": "P-6",
+    "content": "[ID: P-6] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: OCCUPIED] [NOT_FOR_RENT] PropVerse Town, Block P, 5 Marla Double-storey bungalow, 3 bedrooms, price 115 Lakh, located on Street 2 · 26 ft. The home faces South, possession is Ready, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. Its current occupancy status is allotted.",
+    "metadata": {
+      "id": "P-6",
+      "town": "PropVerse Town",
+      "focusTarget": "P-6",
+      "position": [
+        -62.6,
+        0,
+        -42.85
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "occupied",
+      "marla": 5,
+      "bedrooms": 3,
+      "price_lakh": 115,
+      "roadName": "Street 2 · 26 ft",
+      "streetId": "street-2",
+      "facing": "South",
+      "possession": "Ready"
+    }
+  },
+  {
+    "id": "P-7",
+    "content": "[ID: P-7] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: OCCUPIED] [NOT_FOR_RENT] PropVerse Town, Block P, 7 Marla Double-storey bungalow, 4 bedrooms, price 165 Lakh, located on Corner · Street 2 & Boulevard. The home faces North, possession is Ready, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. Its current occupancy status is allotted.",
+    "metadata": {
+      "id": "P-7",
+      "town": "PropVerse Town",
+      "focusTarget": "P-7",
+      "position": [
+        -11.75,
+        0,
+        -15.6
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "occupied",
+      "marla": 7,
+      "bedrooms": 4,
+      "price_lakh": 165,
+      "roadName": "Corner · Street 2 & Boulevard",
+      "streetId": "street-2",
+      "facing": "North",
+      "possession": "Ready"
+    }
+  },
+  {
+    "id": "P-8",
+    "content": "[ID: P-8] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: FREE] [NOT_FOR_RENT] PropVerse Town, Block P, 7 Marla Double-storey bungalow, 4 bedrooms, price 165 Lakh, located on Street 2 · 26 ft. The home faces North, possession is Q2 2027, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. It is currently available for booking.",
+    "metadata": {
+      "id": "P-8",
+      "town": "PropVerse Town",
+      "focusTarget": "P-8",
+      "position": [
+        -22.35,
+        0,
+        -15.6
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "free",
+      "marla": 7,
+      "bedrooms": 4,
+      "price_lakh": 165,
+      "roadName": "Street 2 · 26 ft",
+      "streetId": "street-2",
+      "facing": "North",
+      "possession": "Q2 2027"
+    }
+  },
+  {
+    "id": "P-9",
+    "content": "[ID: P-9] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: OCCUPIED] [NOT_FOR_RENT] PropVerse Town, Block P, 5 Marla Double-storey bungalow, 3 bedrooms, price 115 Lakh, located on Street 2 · 26 ft. The home faces North, possession is Ready, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. Its current occupancy status is rented.",
+    "metadata": {
+      "id": "P-9",
+      "town": "PropVerse Town",
+      "focusTarget": "P-9",
+      "position": [
+        -32.2,
+        0,
+        -17.15
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "occupied",
+      "marla": 5,
+      "bedrooms": 3,
+      "price_lakh": 115,
+      "roadName": "Street 2 · 26 ft",
+      "streetId": "street-2",
+      "facing": "North",
+      "possession": "Ready"
+    }
+  },
+  {
+    "id": "P-10",
+    "content": "[ID: P-10] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: OCCUPIED] [NOT_FOR_RENT] PropVerse Town, Block P, 5 Marla Double-storey bungalow, 3 bedrooms, price 115 Lakh, located on Street 2 · 26 ft. The home faces North, possession is Ready, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. Its current occupancy status is allotted.",
+    "metadata": {
+      "id": "P-10",
+      "town": "PropVerse Town",
+      "focusTarget": "P-10",
+      "position": [
+        -41.3,
+        0,
+        -17.15
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "occupied",
+      "marla": 5,
+      "bedrooms": 3,
+      "price_lakh": 115,
+      "roadName": "Street 2 · 26 ft",
+      "streetId": "street-2",
+      "facing": "North",
+      "possession": "Ready"
+    }
+  },
+  {
+    "id": "P-11",
+    "content": "[ID: P-11] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: OCCUPIED] [NOT_FOR_RENT] PropVerse Town, Block P, 7 Marla Double-storey bungalow, 4 bedrooms, price 165 Lakh, located on Street 2 · 26 ft. The home faces North, possession is Ready, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. Its current occupancy status is allotted.",
+    "metadata": {
+      "id": "P-11",
+      "town": "PropVerse Town",
+      "focusTarget": "P-11",
+      "position": [
+        -51.15,
+        0,
+        -15.6
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "occupied",
+      "marla": 7,
+      "bedrooms": 4,
+      "price_lakh": 165,
+      "roadName": "Street 2 · 26 ft",
+      "streetId": "street-2",
+      "facing": "North",
+      "possession": "Ready"
+    }
+  },
+  {
+    "id": "P-12",
+    "content": "[ID: P-12] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: FREE] [NOT_FOR_RENT] PropVerse Town, Block P, 7 Marla Double-storey bungalow, 4 bedrooms, price 165 Lakh, located on Street 2 · 26 ft. The home faces North, possession is Q1 2027, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. It is currently available for booking.",
+    "metadata": {
+      "id": "P-12",
+      "town": "PropVerse Town",
+      "focusTarget": "P-12",
+      "position": [
+        -61.75,
+        0,
+        -15.6
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "free",
+      "marla": 7,
+      "bedrooms": 4,
+      "price_lakh": 165,
+      "roadName": "Street 2 · 26 ft",
+      "streetId": "street-2",
+      "facing": "North",
+      "possession": "Q1 2027"
+    }
+  },
+  {
+    "id": "P-13",
+    "content": "[ID: P-13] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: OCCUPIED] [NOT_FOR_RENT] PropVerse Town, Block P, 5 Marla Double-storey bungalow, 3 bedrooms, price 115 Lakh, located on Street 2 · 26 ft. The home faces North, possession is Ready, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. Its current occupancy status is allotted.",
+    "metadata": {
+      "id": "P-13",
+      "town": "PropVerse Town",
+      "focusTarget": "P-13",
+      "position": [
+        -71.6,
+        0,
+        -17.15
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "occupied",
+      "marla": 5,
+      "bedrooms": 3,
+      "price_lakh": 115,
+      "roadName": "Street 2 · 26 ft",
+      "streetId": "street-2",
+      "facing": "North",
+      "possession": "Ready"
+    }
+  },
+  {
+    "id": "P-14",
+    "content": "[ID: P-14] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: OCCUPIED] [NOT_FOR_RENT] PropVerse Town, Block P, 7 Marla Double-storey bungalow, 4 bedrooms, price 165 Lakh, located on Corner · Street 1 & Boulevard. The home faces South, possession is Ready, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. Its current occupancy status is rented.",
+    "metadata": {
+      "id": "P-14",
+      "town": "PropVerse Town",
+      "focusTarget": "P-14",
+      "position": [
+        -11.75,
+        0,
+        15.6
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "occupied",
+      "marla": 7,
+      "bedrooms": 4,
+      "price_lakh": 165,
+      "roadName": "Corner · Street 1 & Boulevard",
+      "streetId": "street-1",
+      "facing": "South",
+      "possession": "Ready"
+    }
+  },
+  {
+    "id": "P-15",
+    "content": "[ID: P-15] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: FREE] [NOT_FOR_RENT] PropVerse Town, Block P, 7 Marla Double-storey bungalow, 4 bedrooms, price 165 Lakh, located on Street 1 · 26 ft. The home faces South, possession is Ready, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. It is currently available for booking.",
+    "metadata": {
+      "id": "P-15",
+      "town": "PropVerse Town",
+      "focusTarget": "P-15",
+      "position": [
+        -22.35,
+        0,
+        15.6
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "free",
+      "marla": 7,
+      "bedrooms": 4,
+      "price_lakh": 165,
+      "roadName": "Street 1 · 26 ft",
+      "streetId": "street-1",
+      "facing": "South",
+      "possession": "Ready"
+    }
+  },
+  {
+    "id": "P-16",
+    "content": "[ID: P-16] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: OCCUPIED] [NOT_FOR_RENT] PropVerse Town, Block P, 5 Marla Double-storey bungalow, 3 bedrooms, price 115 Lakh, located on Street 1 · 26 ft. The home faces South, possession is Ready, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. Its current occupancy status is allotted.",
+    "metadata": {
+      "id": "P-16",
+      "town": "PropVerse Town",
+      "focusTarget": "P-16",
+      "position": [
+        -32.2,
+        0,
+        17.15
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "occupied",
+      "marla": 5,
+      "bedrooms": 3,
+      "price_lakh": 115,
+      "roadName": "Street 1 · 26 ft",
+      "streetId": "street-1",
+      "facing": "South",
+      "possession": "Ready"
+    }
+  },
+  {
+    "id": "P-17",
+    "content": "[ID: P-17] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: OCCUPIED] [NOT_FOR_RENT] PropVerse Town, Block P, 5 Marla Double-storey bungalow, 3 bedrooms, price 115 Lakh, located on Street 1 · 26 ft. The home faces South, possession is Ready, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. Its current occupancy status is allotted.",
+    "metadata": {
+      "id": "P-17",
+      "town": "PropVerse Town",
+      "focusTarget": "P-17",
+      "position": [
+        -41.3,
+        0,
+        17.15
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "occupied",
+      "marla": 5,
+      "bedrooms": 3,
+      "price_lakh": 115,
+      "roadName": "Street 1 · 26 ft",
+      "streetId": "street-1",
+      "facing": "South",
+      "possession": "Ready"
+    }
+  },
+  {
+    "id": "P-18",
+    "content": "[ID: P-18] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: FREE] [NOT_FOR_RENT] PropVerse Town, Block P, 7 Marla Double-storey bungalow, 4 bedrooms, price 165 Lakh, located on Street 1 · 26 ft. The home faces South, possession is Q2 2027, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. It is currently available for booking.",
+    "metadata": {
+      "id": "P-18",
+      "town": "PropVerse Town",
+      "focusTarget": "P-18",
+      "position": [
+        -51.15,
+        0,
+        15.6
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "free",
+      "marla": 7,
+      "bedrooms": 4,
+      "price_lakh": 165,
+      "roadName": "Street 1 · 26 ft",
+      "streetId": "street-1",
+      "facing": "South",
+      "possession": "Q2 2027"
+    }
+  },
+  {
+    "id": "P-19",
+    "content": "[ID: P-19] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: OCCUPIED] [NOT_FOR_RENT] PropVerse Town, Block P, 12 Marla Double-storey bungalow, 5 bedrooms, price 245 Lakh, located on Street 1 · 26 ft. The home faces South, possession is Ready, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. Its current occupancy status is rented.",
+    "metadata": {
+      "id": "P-19",
+      "town": "PropVerse Town",
+      "focusTarget": "P-19",
+      "position": [
+        -62.55,
+        0,
+        13.35
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "occupied",
+      "marla": 12,
+      "bedrooms": 5,
+      "price_lakh": 245,
+      "roadName": "Street 1 · 26 ft",
+      "streetId": "street-1",
+      "facing": "South",
+      "possession": "Ready"
+    }
+  },
+  {
+    "id": "P-20",
+    "content": "[ID: P-20] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: OCCUPIED] [NOT_FOR_RENT] PropVerse Town, Block P, 7 Marla Double-storey bungalow, 4 bedrooms, price 165 Lakh, located on Corner · Street 1 & Boulevard. The home faces North, possession is Ready, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. Its current occupancy status is allotted.",
+    "metadata": {
+      "id": "P-20",
+      "town": "PropVerse Town",
+      "focusTarget": "P-20",
+      "position": [
+        -11.75,
+        0,
+        44.4
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "occupied",
+      "marla": 7,
+      "bedrooms": 4,
+      "price_lakh": 165,
+      "roadName": "Corner · Street 1 & Boulevard",
+      "streetId": "street-1",
+      "facing": "North",
+      "possession": "Ready"
+    }
+  },
+  {
+    "id": "P-21",
+    "content": "[ID: P-21] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: OCCUPIED] [NOT_FOR_RENT] PropVerse Town, Block P, 7 Marla Double-storey bungalow, 4 bedrooms, price 165 Lakh, located on Street 1 · 26 ft. The home faces North, possession is Ready, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. Its current occupancy status is allotted.",
+    "metadata": {
+      "id": "P-21",
+      "town": "PropVerse Town",
+      "focusTarget": "P-21",
+      "position": [
+        -22.35,
+        0,
+        44.4
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "occupied",
+      "marla": 7,
+      "bedrooms": 4,
+      "price_lakh": 165,
+      "roadName": "Street 1 · 26 ft",
+      "streetId": "street-1",
+      "facing": "North",
+      "possession": "Ready"
+    }
+  },
+  {
+    "id": "P-22",
+    "content": "[ID: P-22] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: FREE] [NOT_FOR_RENT] PropVerse Town, Block P, 12 Marla Double-storey bungalow, 5 bedrooms, price 245 Lakh, located on Street 1 · 26 ft. The home faces North, possession is Q1 2027, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. It is currently available for booking.",
+    "metadata": {
+      "id": "P-22",
+      "town": "PropVerse Town",
+      "focusTarget": "P-22",
+      "position": [
+        -33.75,
+        0,
+        46.65
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "free",
+      "marla": 12,
+      "bedrooms": 5,
+      "price_lakh": 245,
+      "roadName": "Street 1 · 26 ft",
+      "streetId": "street-1",
+      "facing": "North",
+      "possession": "Q1 2027"
+    }
+  },
+  {
+    "id": "P-23",
+    "content": "[ID: P-23] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: OCCUPIED] [NOT_FOR_RENT] PropVerse Town, Block P, 5 Marla Double-storey bungalow, 3 bedrooms, price 115 Lakh, located on Street 1 · 26 ft. The home faces North, possession is Ready, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. Its current occupancy status is allotted.",
+    "metadata": {
+      "id": "P-23",
+      "town": "PropVerse Town",
+      "focusTarget": "P-23",
+      "position": [
+        -44.4,
+        0,
+        42.85
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "occupied",
+      "marla": 5,
+      "bedrooms": 3,
+      "price_lakh": 115,
+      "roadName": "Street 1 · 26 ft",
+      "streetId": "street-1",
+      "facing": "North",
+      "possession": "Ready"
+    }
+  },
+  {
+    "id": "P-24",
+    "content": "[ID: P-24] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: OCCUPIED] [NOT_FOR_RENT] PropVerse Town, Block P, 7 Marla Double-storey bungalow, 4 bedrooms, price 165 Lakh, located on Street 1 · 26 ft. The home faces North, possession is Ready, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. Its current occupancy status is rented.",
+    "metadata": {
+      "id": "P-24",
+      "town": "PropVerse Town",
+      "focusTarget": "P-24",
+      "position": [
+        -54.25,
+        0,
+        44.4
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "occupied",
+      "marla": 7,
+      "bedrooms": 4,
+      "price_lakh": 165,
+      "roadName": "Street 1 · 26 ft",
+      "streetId": "street-1",
+      "facing": "North",
+      "possession": "Ready"
+    }
+  },
+  {
+    "id": "P-25",
+    "content": "[ID: P-25] [BLOCK: P] [TYPE: FOR_SALE] [STATUS: FREE] [NOT_FOR_RENT] PropVerse Town, Block P, 12 Marla Double-storey bungalow, 5 bedrooms, price 245 Lakh, located on Street 1 · 26 ft. The home faces North, possession is Ready, and it is planned for comfortable family living. This property is ONLY FOR SALE, not for rent. It is currently available for booking.",
+    "metadata": {
+      "id": "P-25",
+      "town": "PropVerse Town",
+      "focusTarget": "P-25",
+      "position": [
+        -65.65,
+        0,
+        46.65
+      ],
+      "block": "P",
+      "type": "sale",
+      "status": "free",
+      "marla": 12,
+      "bedrooms": 5,
+      "price_lakh": 245,
+      "roadName": "Street 1 · 26 ft",
+      "streetId": "street-1",
+      "facing": "North",
+      "possession": "Ready"
+    }
+  },
+  {
+    "id": "LIGHT_001",
+    "content": "[ID: LIGHT_001] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_001 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_001",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_001",
+      "position": [
+        -5.85,
+        0,
+        -80
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_002",
+    "content": "[ID: LIGHT_002] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_002 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_002",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_002",
+      "position": [
+        5.85,
+        0,
+        -80
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_003",
+    "content": "[ID: LIGHT_003] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_003 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_003",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_003",
+      "position": [
+        -5.85,
+        0,
+        -64
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_004",
+    "content": "[ID: LIGHT_004] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_004 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_004",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_004",
+      "position": [
+        5.85,
+        0,
+        -64
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_005",
+    "content": "[ID: LIGHT_005] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_005 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_005",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_005",
+      "position": [
+        -5.85,
+        0,
+        -48
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_006",
+    "content": "[ID: LIGHT_006] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_006 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_006",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_006",
+      "position": [
+        5.85,
+        0,
+        -48
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_007",
+    "content": "[ID: LIGHT_007] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_007 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_007",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_007",
+      "position": [
+        5.85,
+        0,
+        -32
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_008",
+    "content": "[ID: LIGHT_008] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_008 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_008",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_008",
+      "position": [
+        -5.85,
+        0,
+        -16
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_009",
+    "content": "[ID: LIGHT_009] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_009 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_009",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_009",
+      "position": [
+        5.85,
+        0,
+        -16
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_010",
+    "content": "[ID: LIGHT_010] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_010 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_010",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_010",
+      "position": [
+        -5.85,
+        0,
+        0
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_011",
+    "content": "[ID: LIGHT_011] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_011 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_011",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_011",
+      "position": [
+        -5.85,
+        0,
+        16
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_012",
+    "content": "[ID: LIGHT_012] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_012 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_012",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_012",
+      "position": [
+        5.85,
+        0,
+        16
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_013",
+    "content": "[ID: LIGHT_013] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_013 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_013",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_013",
+      "position": [
+        -5.85,
+        0,
+        48
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_014",
+    "content": "[ID: LIGHT_014] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_014 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_014",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_014",
+      "position": [
+        5.85,
+        0,
+        48
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_015",
+    "content": "[ID: LIGHT_015] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_015 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_015",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_015",
+      "position": [
+        -5.85,
+        0,
+        64
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_016",
+    "content": "[ID: LIGHT_016] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_016 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_016",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_016",
+      "position": [
+        5.85,
+        0,
+        64
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_017",
+    "content": "[ID: LIGHT_017] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_017 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_017",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_017",
+      "position": [
+        -5.85,
+        0,
+        80
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_018",
+    "content": "[ID: LIGHT_018] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_018 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_018",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_018",
+      "position": [
+        5.85,
+        0,
+        80
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_019",
+    "content": "[ID: LIGHT_019] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_019 is installed along Two Way, street 2 ROAD as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_019",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_019",
+      "position": [
+        -81.35,
+        0,
+        -33.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Two Way, street 2 ROAD",
+      "roadId": "street-2"
+    }
+  },
+  {
+    "id": "LIGHT_020",
+    "content": "[ID: LIGHT_020] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_020 is installed along Two Way, street 2 ROAD as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_020",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_020",
+      "position": [
+        -81.35,
+        0,
+        -26.15
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Two Way, street 2 ROAD",
+      "roadId": "street-2"
+    }
+  },
+  {
+    "id": "LIGHT_021",
+    "content": "[ID: LIGHT_021] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_021 is installed along Two Way, street 2 ROAD as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_021",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_021",
+      "position": [
+        -65.35,
+        0,
+        -33.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Two Way, street 2 ROAD",
+      "roadId": "street-2"
+    }
+  },
+  {
+    "id": "LIGHT_022",
+    "content": "[ID: LIGHT_022] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_022 is installed along Two Way, street 2 ROAD as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_022",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_022",
+      "position": [
+        -65.35,
+        0,
+        -26.15
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Two Way, street 2 ROAD",
+      "roadId": "street-2"
+    }
+  },
+  {
+    "id": "LIGHT_023",
+    "content": "[ID: LIGHT_023] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_023 is installed along Two Way, street 2 ROAD as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_023",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_023",
+      "position": [
+        -49.35,
+        0,
+        -33.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Two Way, street 2 ROAD",
+      "roadId": "street-2"
+    }
+  },
+  {
+    "id": "LIGHT_024",
+    "content": "[ID: LIGHT_024] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_024 is installed along Two Way, street 2 ROAD as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_024",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_024",
+      "position": [
+        -49.35,
+        0,
+        -26.15
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Two Way, street 2 ROAD",
+      "roadId": "street-2"
+    }
+  },
+  {
+    "id": "LIGHT_025",
+    "content": "[ID: LIGHT_025] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_025 is installed along Two Way, street 2 ROAD as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_025",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_025",
+      "position": [
+        -33.35,
+        0,
+        -33.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Two Way, street 2 ROAD",
+      "roadId": "street-2"
+    }
+  },
+  {
+    "id": "LIGHT_026",
+    "content": "[ID: LIGHT_026] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_026 is installed along Two Way, street 2 ROAD as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_026",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_026",
+      "position": [
+        -33.35,
+        0,
+        -26.15
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Two Way, street 2 ROAD",
+      "roadId": "street-2"
+    }
+  },
+  {
+    "id": "LIGHT_027",
+    "content": "[ID: LIGHT_027] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_027 is installed along Two Way, street 2 ROAD as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_027",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_027",
+      "position": [
+        -17.35,
+        0,
+        -33.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Two Way, street 2 ROAD",
+      "roadId": "street-2"
+    }
+  },
+  {
+    "id": "LIGHT_028",
+    "content": "[ID: LIGHT_028] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_028 is installed along Two Way, street 2 ROAD as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_028",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_028",
+      "position": [
+        -17.35,
+        0,
+        -26.15
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Two Way, street 2 ROAD",
+      "roadId": "street-2"
+    }
+  },
+  {
+    "id": "LIGHT_029",
+    "content": "[ID: LIGHT_029] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_029 is installed along Two Way, street 1 ROAD as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_029",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_029",
+      "position": [
+        -81.35,
+        0,
+        26.15
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Two Way, street 1 ROAD",
+      "roadId": "street-1"
+    }
+  },
+  {
+    "id": "LIGHT_030",
+    "content": "[ID: LIGHT_030] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_030 is installed along Two Way, street 1 ROAD as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_030",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_030",
+      "position": [
+        -81.35,
+        0,
+        33.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Two Way, street 1 ROAD",
+      "roadId": "street-1"
+    }
+  },
+  {
+    "id": "LIGHT_031",
+    "content": "[ID: LIGHT_031] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_031 is installed along Two Way, street 1 ROAD as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_031",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_031",
+      "position": [
+        -65.35,
+        0,
+        26.15
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Two Way, street 1 ROAD",
+      "roadId": "street-1"
+    }
+  },
+  {
+    "id": "LIGHT_032",
+    "content": "[ID: LIGHT_032] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_032 is installed along Two Way, street 1 ROAD as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_032",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_032",
+      "position": [
+        -65.35,
+        0,
+        33.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Two Way, street 1 ROAD",
+      "roadId": "street-1"
+    }
+  },
+  {
+    "id": "LIGHT_033",
+    "content": "[ID: LIGHT_033] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_033 is installed along Two Way, street 1 ROAD as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_033",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_033",
+      "position": [
+        -49.35,
+        0,
+        26.15
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Two Way, street 1 ROAD",
+      "roadId": "street-1"
+    }
+  },
+  {
+    "id": "LIGHT_034",
+    "content": "[ID: LIGHT_034] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_034 is installed along Two Way, street 1 ROAD as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_034",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_034",
+      "position": [
+        -49.35,
+        0,
+        33.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Two Way, street 1 ROAD",
+      "roadId": "street-1"
+    }
+  },
+  {
+    "id": "LIGHT_035",
+    "content": "[ID: LIGHT_035] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_035 is installed along Two Way, street 1 ROAD as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_035",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_035",
+      "position": [
+        -33.35,
+        0,
+        26.15
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Two Way, street 1 ROAD",
+      "roadId": "street-1"
+    }
+  },
+  {
+    "id": "LIGHT_036",
+    "content": "[ID: LIGHT_036] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_036 is installed along Two Way, street 1 ROAD as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_036",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_036",
+      "position": [
+        -33.35,
+        0,
+        33.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Two Way, street 1 ROAD",
+      "roadId": "street-1"
+    }
+  },
+  {
+    "id": "LIGHT_037",
+    "content": "[ID: LIGHT_037] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_037 is installed along Two Way, street 1 ROAD as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_037",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_037",
+      "position": [
+        -17.35,
+        0,
+        26.15
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Two Way, street 1 ROAD",
+      "roadId": "street-1"
+    }
+  },
+  {
+    "id": "LIGHT_038",
+    "content": "[ID: LIGHT_038] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_038 is installed along Two Way, street 1 ROAD as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_038",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_038",
+      "position": [
+        -17.35,
+        0,
+        33.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Two Way, street 1 ROAD",
+      "roadId": "street-1"
+    }
+  },
+  {
+    "id": "LIGHT_039",
+    "content": "[ID: LIGHT_039] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_039 is installed along Civic Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_039",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_039",
+      "position": [
+        16,
+        0,
+        -43.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Civic Road",
+      "roadId": "civic-road-1"
+    }
+  },
+  {
+    "id": "LIGHT_040",
+    "content": "[ID: LIGHT_040] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_040 is installed along Civic Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_040",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_040",
+      "position": [
+        16,
+        0,
+        -36.15
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Civic Road",
+      "roadId": "civic-road-1"
+    }
+  },
+  {
+    "id": "LIGHT_041",
+    "content": "[ID: LIGHT_041] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_041 is installed along Civic Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_041",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_041",
+      "position": [
+        32,
+        0,
+        -43.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Civic Road",
+      "roadId": "civic-road-1"
+    }
+  },
+  {
+    "id": "LIGHT_042",
+    "content": "[ID: LIGHT_042] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_042 is installed along Civic Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_042",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_042",
+      "position": [
+        32,
+        0,
+        -36.15
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Civic Road",
+      "roadId": "civic-road-1"
+    }
+  },
+  {
+    "id": "LIGHT_043",
+    "content": "[ID: LIGHT_043] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_043 is installed along Civic Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_043",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_043",
+      "position": [
+        48,
+        0,
+        -43.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Civic Road",
+      "roadId": "civic-road-1"
+    }
+  },
+  {
+    "id": "LIGHT_044",
+    "content": "[ID: LIGHT_044] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_044 is installed along Civic Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_044",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_044",
+      "position": [
+        48,
+        0,
+        -36.15
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Civic Road",
+      "roadId": "civic-road-1"
+    }
+  },
+  {
+    "id": "LIGHT_045",
+    "content": "[ID: LIGHT_045] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_045 is installed along Civic Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_045",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_045",
+      "position": [
+        64,
+        0,
+        -43.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Civic Road",
+      "roadId": "civic-road-1"
+    }
+  },
+  {
+    "id": "LIGHT_046",
+    "content": "[ID: LIGHT_046] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_046 is installed along Civic Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_046",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_046",
+      "position": [
+        64,
+        0,
+        -36.15
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Civic Road",
+      "roadId": "civic-road-1"
+    }
+  },
+  {
+    "id": "LIGHT_047",
+    "content": "[ID: LIGHT_047] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_047 is installed along Civic Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_047",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_047",
+      "position": [
+        80,
+        0,
+        -43.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Civic Road",
+      "roadId": "civic-road-1"
+    }
+  },
+  {
+    "id": "LIGHT_048",
+    "content": "[ID: LIGHT_048] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_048 is installed along Civic Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_048",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_048",
+      "position": [
+        80,
+        0,
+        -36.15
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Civic Road",
+      "roadId": "civic-road-1"
+    }
+  },
+  {
+    "id": "LIGHT_049",
+    "content": "[ID: LIGHT_049] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_049 is installed along Civic Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_049",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_049",
+      "position": [
+        16,
+        0,
+        26.15
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Civic Road",
+      "roadId": "civic-road-2"
+    }
+  },
+  {
+    "id": "LIGHT_050",
+    "content": "[ID: LIGHT_050] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_050 is installed along Civic Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_050",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_050",
+      "position": [
+        16,
+        0,
+        33.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Civic Road",
+      "roadId": "civic-road-2"
+    }
+  },
+  {
+    "id": "LIGHT_051",
+    "content": "[ID: LIGHT_051] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_051 is installed along Civic Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_051",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_051",
+      "position": [
+        32,
+        0,
+        33.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Civic Road",
+      "roadId": "civic-road-2"
+    }
+  },
+  {
+    "id": "LIGHT_052",
+    "content": "[ID: LIGHT_052] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_052 is installed along Civic Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_052",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_052",
+      "position": [
+        48,
+        0,
+        33.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Civic Road",
+      "roadId": "civic-road-2"
+    }
+  },
+  {
+    "id": "LIGHT_053",
+    "content": "[ID: LIGHT_053] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_053 is installed along Civic Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_053",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_053",
+      "position": [
+        64,
+        0,
+        33.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Civic Road",
+      "roadId": "civic-road-2"
+    }
+  },
+  {
+    "id": "LIGHT_054",
+    "content": "[ID: LIGHT_054] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_054 is installed along Civic Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_054",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_054",
+      "position": [
+        80,
+        0,
+        26.15
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Civic Road",
+      "roadId": "civic-road-2"
+    }
+  },
+  {
+    "id": "LIGHT_055",
+    "content": "[ID: LIGHT_055] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_055 is installed along Civic Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_055",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_055",
+      "position": [
+        80,
+        0,
+        33.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Civic Road",
+      "roadId": "civic-road-2"
+    }
+  },
+  {
+    "id": "LIGHT_056",
+    "content": "[ID: LIGHT_056] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_056 is installed along School Hospital Connector as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_056",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_056",
+      "position": [
+        16,
+        0,
+        -5.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "School Hospital Connector",
+      "roadId": "school-hospital-road"
+    }
+  },
+  {
+    "id": "LIGHT_057",
+    "content": "[ID: LIGHT_057] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_057 is installed along School Hospital Connector as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_057",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_057",
+      "position": [
+        16,
+        0,
+        -0.05
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "School Hospital Connector",
+      "roadId": "school-hospital-road"
+    }
+  },
+  {
+    "id": "LIGHT_058",
+    "content": "[ID: LIGHT_058] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_058 is installed along School Hospital Connector as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_058",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_058",
+      "position": [
+        32,
+        0,
+        -5.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "School Hospital Connector",
+      "roadId": "school-hospital-road"
+    }
+  },
+  {
+    "id": "LIGHT_059",
+    "content": "[ID: LIGHT_059] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_059 is installed along School Hospital Connector as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_059",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_059",
+      "position": [
+        32,
+        0,
+        -0.05
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "School Hospital Connector",
+      "roadId": "school-hospital-road"
+    }
+  },
+  {
+    "id": "LIGHT_060",
+    "content": "[ID: LIGHT_060] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_060 is installed along School Hospital Connector as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_060",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_060",
+      "position": [
+        48,
+        0,
+        -5.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "School Hospital Connector",
+      "roadId": "school-hospital-road"
+    }
+  },
+  {
+    "id": "LIGHT_061",
+    "content": "[ID: LIGHT_061] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_061 is installed along School Hospital Connector as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_061",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_061",
+      "position": [
+        48,
+        0,
+        -0.05
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "School Hospital Connector",
+      "roadId": "school-hospital-road"
+    }
+  },
+  {
+    "id": "LIGHT_062",
+    "content": "[ID: LIGHT_062] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_062 is installed along School Hospital Connector as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_062",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_062",
+      "position": [
+        64,
+        0,
+        -5.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "School Hospital Connector",
+      "roadId": "school-hospital-road"
+    }
+  },
+  {
+    "id": "LIGHT_063",
+    "content": "[ID: LIGHT_063] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_063 is installed along School Hospital Connector as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_063",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_063",
+      "position": [
+        64,
+        0,
+        -0.05
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "School Hospital Connector",
+      "roadId": "school-hospital-road"
+    }
+  },
+  {
+    "id": "LIGHT_064",
+    "content": "[ID: LIGHT_064] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_064 is installed along School Hospital Connector as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_064",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_064",
+      "position": [
+        80,
+        0,
+        -5.85
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "School Hospital Connector",
+      "roadId": "school-hospital-road"
+    }
+  },
+  {
+    "id": "LIGHT_065",
+    "content": "[ID: LIGHT_065] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_065 is installed along School Hospital Connector as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_065",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_065",
+      "position": [
+        80,
+        0,
+        -0.05
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "School Hospital Connector",
+      "roadId": "school-hospital-road"
+    }
+  },
+  {
+    "id": "LIGHT_066",
+    "content": "[ID: LIGHT_066] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_066 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_066",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_066",
+      "position": [
+        0,
+        0,
+        -82
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_067",
+    "content": "[ID: LIGHT_067] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_067 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_067",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_067",
+      "position": [
+        0,
+        0,
+        -66
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_068",
+    "content": "[ID: LIGHT_068] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_068 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_068",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_068",
+      "position": [
+        0,
+        0,
+        -50
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_069",
+    "content": "[ID: LIGHT_069] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_069 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_069",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_069",
+      "position": [
+        0,
+        0,
+        -24
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_070",
+    "content": "[ID: LIGHT_070] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_070 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_070",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_070",
+      "position": [
+        0,
+        0,
+        -8
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_071",
+    "content": "[ID: LIGHT_071] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_071 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_071",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_071",
+      "position": [
+        0,
+        0,
+        5.05
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_072",
+    "content": "[ID: LIGHT_072] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_072 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_072",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_072",
+      "position": [
+        0,
+        0,
+        21.05
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_073",
+    "content": "[ID: LIGHT_073] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_073 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_073",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_073",
+      "position": [
+        0,
+        0,
+        42
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_074",
+    "content": "[ID: LIGHT_074] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_074 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_074",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_074",
+      "position": [
+        0,
+        0,
+        58
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "LIGHT_075",
+    "content": "[ID: LIGHT_075] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town streetlight LIGHT_075 is installed along Main Two Way Road as part of the internal lighting network. This active streetlight pole provides nighttime illumination for residents, visitors, pedestrians, and vehicles. It supports safer movement through the town road system and is maintained as public infrastructure.",
+    "metadata": {
+      "id": "LIGHT_075",
+      "town": "PropVerse Town",
+      "focusTarget": "LIGHT_075",
+      "position": [
+        0,
+        0,
+        74
+      ],
+      "type": "general",
+      "entityType": "streetlight",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "roadId": "boulevard"
+    }
+  },
+  {
+    "id": "boulevard",
+    "content": "[ID: boulevard] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town road Main Two Way Road is part of the planned circulation network. It has a width of 12 metres, a length of 180 metres, and NS orientation. The road connects residential, commercial, and civic destinations for practical everyday access.",
+    "metadata": {
+      "id": "boulevard",
+      "town": "PropVerse Town",
+      "focusTarget": "boulevard",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "type": "general",
+      "entityType": "road",
+      "status": "active",
+      "roadName": "Main Two Way Road",
+      "width": 12,
+      "length": 180,
+      "orientation": "NS"
+    }
+  },
+  {
+    "id": "street-2",
+    "content": "[ID: street-2] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town road Two Way, street 2 ROAD is part of the planned circulation network. It has a width of 8 metres, a length of 86.7 metres, and EW orientation. The road connects residential, commercial, and civic destinations for practical everyday access.",
+    "metadata": {
+      "id": "street-2",
+      "town": "PropVerse Town",
+      "focusTarget": "street-2",
+      "position": [
+        -49.35,
+        0,
+        -30
+      ],
+      "type": "general",
+      "entityType": "road",
+      "status": "active",
+      "roadName": "Two Way, street 2 ROAD",
+      "width": 8,
+      "length": 86.7,
+      "orientation": "EW"
+    }
+  },
+  {
+    "id": "street-1",
+    "content": "[ID: street-1] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town road Two Way, street 1 ROAD is part of the planned circulation network. It has a width of 8 metres, a length of 86.7 metres, and EW orientation. The road connects residential, commercial, and civic destinations for practical everyday access.",
+    "metadata": {
+      "id": "street-1",
+      "town": "PropVerse Town",
+      "focusTarget": "street-1",
+      "position": [
+        -49.35,
+        0,
+        30
+      ],
+      "type": "general",
+      "entityType": "road",
+      "status": "active",
+      "roadName": "Two Way, street 1 ROAD",
+      "width": 8,
+      "length": 86.7,
+      "orientation": "EW"
+    }
+  },
+  {
+    "id": "civic-road-1",
+    "content": "[ID: civic-road-1] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town road Civic Road is part of the planned circulation network. It has a width of 8 metres, a length of 84 metres, and EW orientation. The road connects residential, commercial, and civic destinations for practical everyday access.",
+    "metadata": {
+      "id": "civic-road-1",
+      "town": "PropVerse Town",
+      "focusTarget": "civic-road-1",
+      "position": [
+        48,
+        0,
+        -40
+      ],
+      "type": "general",
+      "entityType": "road",
+      "status": "active",
+      "roadName": "Civic Road",
+      "width": 8,
+      "length": 84,
+      "orientation": "EW"
+    }
+  },
+  {
+    "id": "civic-road-2",
+    "content": "[ID: civic-road-2] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town road Civic Road is part of the planned circulation network. It has a width of 8 metres, a length of 84 metres, and EW orientation. The road connects residential, commercial, and civic destinations for practical everyday access.",
+    "metadata": {
+      "id": "civic-road-2",
+      "town": "PropVerse Town",
+      "focusTarget": "civic-road-2",
+      "position": [
+        48,
+        0,
+        30
+      ],
+      "type": "general",
+      "entityType": "road",
+      "status": "active",
+      "roadName": "Civic Road",
+      "width": 8,
+      "length": 84,
+      "orientation": "EW"
+    }
+  },
+  {
+    "id": "school-hospital-road",
+    "content": "[ID: school-hospital-road] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town road School Hospital Connector is part of the planned circulation network. It has a width of 6.1 metres, a length of 84 metres, and EW orientation. The road connects residential, commercial, and civic destinations for practical everyday access.",
+    "metadata": {
+      "id": "school-hospital-road",
+      "town": "PropVerse Town",
+      "focusTarget": "school-hospital-road",
+      "position": [
+        48,
+        0,
+        -2.95
+      ],
+      "type": "general",
+      "entityType": "road",
+      "status": "active",
+      "roadName": "School Hospital Connector",
+      "width": 6.1,
+      "length": 84,
+      "orientation": "EW"
+    }
+  },
+  {
+    "id": "market-1",
+    "content": "[ID: market-1] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town includes Community Market North, a market facility on Two Way, street 2 ROAD. Everyday retail, bakery and fresh produce around an open courtyard. Public timings are 9:00 AM – 10:00 PM. Residents can use this facility as part of the town's connected civic and community services.",
+    "metadata": {
+      "id": "market-1",
+      "town": "PropVerse Town",
+      "focusTarget": "market-1",
+      "position": [
+        -78.9,
+        0,
+        -46
+      ],
+      "type": "general",
+      "entityType": "market",
+      "status": "active",
+      "roadName": "Two Way, street 2 ROAD",
+      "capacity": null
+    }
+  },
+  {
+    "id": "market-3",
+    "content": "[ID: market-3] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town includes Community Market South, a market facility on Two Way, street 1 ROAD. Everyday retail, bakery and fresh produce around an open courtyard. Public timings are 9:00 AM – 10:00 PM. Residents can use this facility as part of the town's connected civic and community services.",
+    "metadata": {
+      "id": "market-3",
+      "town": "PropVerse Town",
+      "focusTarget": "market-3",
+      "position": [
+        -80.4,
+        0,
+        14
+      ],
+      "type": "general",
+      "entityType": "market",
+      "status": "active",
+      "roadName": "Two Way, street 1 ROAD",
+      "capacity": null
+    }
+  },
+  {
+    "id": "masjid-2",
+    "content": "[ID: masjid-2] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town includes Jamia Masjid North, a masjid facility on Two Way, street 2 ROAD. Neighbourhood masjid with ablution court and separate prayer hall for women. Public timings are Five daily prayers · Jumu’ah 1:30 PM. Residents can use this facility as part of the town's connected civic and community services.",
+    "metadata": {
+      "id": "masjid-2",
+      "town": "PropVerse Town",
+      "focusTarget": "masjid-2",
+      "position": [
+        -83.9,
+        0,
+        -17
+      ],
+      "type": "general",
+      "entityType": "masjid",
+      "status": "active",
+      "roadName": "Two Way, street 2 ROAD",
+      "capacity": null
+    }
+  },
+  {
+    "id": "masjid-4",
+    "content": "[ID: masjid-4] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town includes Jamia Masjid South, a masjid facility on Two Way, street 1 ROAD. Neighbourhood masjid with ablution court and separate prayer hall for women. Public timings are Five daily prayers · Jumu’ah 1:30 PM. Residents can use this facility as part of the town's connected civic and community services.",
+    "metadata": {
+      "id": "masjid-4",
+      "town": "PropVerse Town",
+      "focusTarget": "masjid-4",
+      "position": [
+        -79.5,
+        0,
+        43
+      ],
+      "type": "general",
+      "entityType": "masjid",
+      "status": "active",
+      "roadName": "Two Way, street 1 ROAD",
+      "capacity": null
+    }
+  },
+  {
+    "id": "civic-school",
+    "content": "[ID: civic-school] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town includes PropVerse Grammar School, a school facility on School Hospital Connector. Primary to O-Level campus with science labs, library and sports ground. Public timings are 7:45 AM – 2:30 PM. Residents can use this facility as part of the town's connected civic and community services.",
+    "metadata": {
+      "id": "civic-school",
+      "town": "PropVerse Town",
+      "focusTarget": "civic-school",
+      "position": [
+        48,
+        0,
+        -20
+      ],
+      "type": "general",
+      "entityType": "school",
+      "status": "active",
+      "roadName": "School Hospital Connector",
+      "capacity": null
+    }
+  },
+  {
+    "id": "civic-hospital",
+    "content": "[ID: civic-hospital] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town includes Town Hospital, a hospital facility on School Hospital Connector. 40-bed general hospital with emergency, maternity and diagnostics. Public timings are 24 hours · OPD 8 AM – 8 PM. Capacity is 40 beds. Residents can use this facility as part of the town's connected civic and community services.",
+    "metadata": {
+      "id": "civic-hospital",
+      "town": "PropVerse Town",
+      "focusTarget": "civic-hospital",
+      "position": [
+        48,
+        0,
+        13.1
+      ],
+      "type": "general",
+      "entityType": "hospital",
+      "status": "active",
+      "roadName": "School Hospital Connector",
+      "capacity": "40 beds"
+    }
+  },
+  {
+    "id": "civic-park",
+    "content": "[ID: civic-park] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town includes Central Park, a park facility on Civic Road. Tree-lined lawn with jogging loop and a children’s playground. Public timings are 6:00 AM – 10:00 PM. Residents can use this facility as part of the town's connected civic and community services.",
+    "metadata": {
+      "id": "civic-park",
+      "town": "PropVerse Town",
+      "focusTarget": "civic-park",
+      "position": [
+        48,
+        0,
+        -67
+      ],
+      "type": "general",
+      "entityType": "park",
+      "status": "active",
+      "roadName": "Civic Road",
+      "capacity": null
+    }
+  },
+  {
+    "id": "civic-wapda",
+    "content": "[ID: civic-wapda] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town includes WAPDA Office, a grid station facility on Civic Road. Electricity billing, new connections and complaint cell. Public timings are 9:00 AM – 5:00 PM. Residents can use this facility as part of the town's connected civic and community services.",
+    "metadata": {
+      "id": "civic-wapda",
+      "town": "PropVerse Town",
+      "focusTarget": "civic-wapda",
+      "position": [
+        75.75,
+        0,
+        62.25
+      ],
+      "type": "general",
+      "entityType": "grid station",
+      "status": "active",
+      "roadName": "Civic Road",
+      "capacity": null
+    }
+  },
+  {
+    "id": "civic-police",
+    "content": "[ID: civic-police] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town includes Police Station, a police station facility on Civic Road. Community policing, FIR desk and emergency response for PropVerse Town. Public timings are 24 hours. Residents can use this facility as part of the town's connected civic and community services.",
+    "metadata": {
+      "id": "civic-police",
+      "town": "PropVerse Town",
+      "focusTarget": "civic-police",
+      "position": [
+        21,
+        0,
+        62.25
+      ],
+      "type": "general",
+      "entityType": "police station",
+      "status": "active",
+      "roadName": "Civic Road",
+      "capacity": null
+    }
+  },
+  {
+    "id": "civic-fire",
+    "content": "[ID: civic-fire] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town includes Fire & Rescue Station, a fire station facility on Civic Road. Two-bay fire station with rescue ambulance on standby. Public timings are 24 hours. Capacity is 2 bays. Residents can use this facility as part of the town's connected civic and community services.",
+    "metadata": {
+      "id": "civic-fire",
+      "town": "PropVerse Town",
+      "focusTarget": "civic-fire",
+      "position": [
+        47,
+        0,
+        62.25
+      ],
+      "type": "general",
+      "entityType": "fire station",
+      "status": "active",
+      "roadName": "Civic Road",
+      "capacity": "2 bays"
+    }
+  },
+  {
+    "id": "WALL-01",
+    "content": "[ID: WALL-01] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town boundary wall run WALL-01 forms part of the secured town perimeter. This boundary section contains 14 planned segments and helps define the protected edge of the development. It supports clear site limits, community security, and an organized arrival experience for residents and visitors.",
+    "metadata": {
+      "id": "WALL-01",
+      "town": "PropVerse Town",
+      "focusTarget": "WALL-01",
+      "position": [
+        48,
+        1.2,
+        -90
+      ],
+      "type": "general",
+      "entityType": "boundary wall",
+      "status": "active",
+      "segmentCount": 14
+    }
+  },
+  {
+    "id": "WALL-02",
+    "content": "[ID: WALL-02] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town boundary wall run WALL-02 forms part of the secured town perimeter. This boundary section contains 30 planned segments and helps define the protected edge of the development. It supports clear site limits, community security, and an organized arrival experience for residents and visitors.",
+    "metadata": {
+      "id": "WALL-02",
+      "town": "PropVerse Town",
+      "focusTarget": "WALL-02",
+      "position": [
+        90,
+        1.2,
+        0
+      ],
+      "type": "general",
+      "entityType": "boundary wall",
+      "status": "active",
+      "segmentCount": 30
+    }
+  },
+  {
+    "id": "WALL-03",
+    "content": "[ID: WALL-03] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town boundary wall run WALL-03 forms part of the secured town perimeter. This boundary section contains 14 planned segments and helps define the protected edge of the development. It supports clear site limits, community security, and an organized arrival experience for residents and visitors.",
+    "metadata": {
+      "id": "WALL-03",
+      "town": "PropVerse Town",
+      "focusTarget": "WALL-03",
+      "position": [
+        48.5,
+        1.2,
+        90
+      ],
+      "type": "general",
+      "entityType": "boundary wall",
+      "status": "active",
+      "segmentCount": 14
+    }
+  },
+  {
+    "id": "WALL-04",
+    "content": "[ID: WALL-04] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town boundary wall run WALL-04 forms part of the secured town perimeter. This boundary section contains 15 planned segments and helps define the protected edge of the development. It supports clear site limits, community security, and an organized arrival experience for residents and visitors.",
+    "metadata": {
+      "id": "WALL-04",
+      "town": "PropVerse Town",
+      "focusTarget": "WALL-04",
+      "position": [
+        -49.5,
+        1.2,
+        -62
+      ],
+      "type": "general",
+      "entityType": "boundary wall",
+      "status": "active",
+      "segmentCount": 15
+    }
+  },
+  {
+    "id": "WALL-05",
+    "content": "[ID: WALL-05] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town boundary wall run WALL-05 forms part of the secured town perimeter. This boundary section contains 15 planned segments and helps define the protected edge of the development. It supports clear site limits, community security, and an organized arrival experience for residents and visitors.",
+    "metadata": {
+      "id": "WALL-05",
+      "town": "PropVerse Town",
+      "focusTarget": "WALL-05",
+      "position": [
+        -49.5,
+        1.2,
+        62
+      ],
+      "type": "general",
+      "entityType": "boundary wall",
+      "status": "active",
+      "segmentCount": 15
+    }
+  },
+  {
+    "id": "WALL-06",
+    "content": "[ID: WALL-06] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town boundary wall run WALL-06 forms part of the secured town perimeter. This boundary section contains 21 planned segments and helps define the protected edge of the development. It supports clear site limits, community security, and an organized arrival experience for residents and visitors.",
+    "metadata": {
+      "id": "WALL-06",
+      "town": "PropVerse Town",
+      "focusTarget": "WALL-06",
+      "position": [
+        -93,
+        1.2,
+        0
+      ],
+      "type": "general",
+      "entityType": "boundary wall",
+      "status": "active",
+      "segmentCount": 21
+    }
+  },
+  {
+    "id": "WALL-07",
+    "content": "[ID: WALL-07] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town boundary wall run WALL-07 forms part of the secured town perimeter. This boundary section contains 5 planned segments and helps define the protected edge of the development. It supports clear site limits, community security, and an organized arrival experience for residents and visitors.",
+    "metadata": {
+      "id": "WALL-07",
+      "town": "PropVerse Town",
+      "focusTarget": "WALL-07",
+      "position": [
+        -6,
+        1.2,
+        -76
+      ],
+      "type": "general",
+      "entityType": "boundary wall",
+      "status": "active",
+      "segmentCount": 5
+    }
+  },
+  {
+    "id": "WALL-08",
+    "content": "[ID: WALL-08] [TYPE: GENERAL_INFO] [STATUS: ACTIVE] PropVerse Town boundary wall run WALL-08 forms part of the secured town perimeter. This boundary section contains 5 planned segments and helps define the protected edge of the development. It supports clear site limits, community security, and an organized arrival experience for residents and visitors.",
+    "metadata": {
+      "id": "WALL-08",
+      "town": "PropVerse Town",
+      "focusTarget": "WALL-08",
+      "position": [
+        -6,
+        1.2,
+        76
+      ],
+      "type": "general",
+      "entityType": "boundary wall",
+      "status": "active",
+      "segmentCount": 5
+    }
+  }
+]
